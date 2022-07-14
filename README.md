@@ -273,7 +273,7 @@ GET /admin-roles?username=wiener&action=upgrade HTTP/1.1
 
 ```
 
-![image](https://github.com/m0d1cumc0rvu5/m0d1cumc0rvu5.github.io/blob/main/docs/assets/20220514001023.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001023.png)
 
 ![[Pasted image 20220514001101.png]]
 
