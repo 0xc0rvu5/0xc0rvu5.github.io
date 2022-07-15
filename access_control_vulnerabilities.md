@@ -274,7 +274,7 @@ GET /admin-roles?username=wiener&action=upgrade HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/images/20220514001023.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001023.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001101.png)
 
