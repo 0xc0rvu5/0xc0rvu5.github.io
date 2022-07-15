@@ -153,7 +153,7 @@ ac611f9c1f58d205c19b3a7a00820069.web-security-academy.net/admin
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202751.png)
 
-2![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202826.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202826.png)
 
 ### URL-based access control can be circumvented
 ```bash
