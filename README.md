@@ -1,6 +1,8 @@
 # Portswigger
 ## Access Control Vulnerabilities
 ### Unprotected admin functionality
+
+[To test file](/test.md)
 ```bash
 
 # This lab has an unprotected admin panel.
