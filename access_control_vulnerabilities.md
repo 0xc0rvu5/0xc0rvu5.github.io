@@ -323,9 +323,9 @@ HTTP/1.1 200 OK
 
 ```
 
-![[Pasted image 20220514002024.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514002024.png)
 
-![[Pasted image 20220514002057.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514002057.png)
 
 ### User ID controlled by request parameter, with unpredictable user IDs
 ```bash
@@ -372,13 +372,13 @@ GET /my-account?id=a49108c2-b1c8-4126-95a5-67df0a5c5971 HTTP/1.1
 ```
 
 
-![[Pasted image 20220514003253.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003253.png)
 
-![[Pasted image 20220514003347.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003347.png)
 
-![[Pasted image 20220514003641.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003641.png)
 
-![[Pasted image 20220514003530.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003530.png)
 
 ### User ID controlled by request parameter with data leakage in redirect
 ```bash
@@ -413,7 +413,7 @@ HTTP/1.1 302 Found
 
 ```
 
-![[Pasted image 20220514004843.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514004843.png)
 
 ### User ID controlled by request parameter with password disclosure
 ```bash
@@ -456,9 +456,9 @@ Delete the username "carlos"
 
 ```
 
-![[Pasted image 20220514005259.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514005259.png)
 
-![[Pasted image 20220514010344.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514010344.png)
 
 ### Insecure direct object references
 ```bash
@@ -490,9 +490,9 @@ The response contains the password
 
 ```
 
-![[Pasted image 20220514200914.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514200914.png)
 
-![[Pasted image 20220514200945.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514200945.png)
 
 ### Multi-step process with no access control on one step
 ```bash
@@ -545,15 +545,15 @@ HTTP/1.1 302 Found
 
 ```
 
-![[Pasted image 20220514202654.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202654.png)
 
-![[Pasted image 20220514202721.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202721.png)
 
-![[Pasted image 20220514202810.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202810.png)
 
-![[Pasted image 20220514202838.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202838.png)
 
-![[Pasted image 20220514202909.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202909.png)
 
 ### Referer-based access control
 ```bash
@@ -594,14 +594,14 @@ HTTP/1.1 302 Found
 
 ```
 
-![[Pasted image 20220514203646.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203646.png)
 
-![[Pasted image 20220514203741.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203741.png)
 
-![[Pasted image 20220514203820.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203820.png)
 
-![[Pasted image 20220514203852.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203852.png)
 
-![[Pasted image 20220514203928.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203928.png)
 
 #hacking
