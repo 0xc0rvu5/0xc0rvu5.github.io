@@ -44,7 +44,7 @@ Delete the username "carlos"
 
 ```
 
-![[Pasted image 20220513200029.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513200029.png)
 
 ### User role controlled by request parameter
 ```bash
@@ -102,9 +102,9 @@ Cookie: session=FXhMokS0myZHILr6znWh5a3MQeVlk6EO; Admin=true
 
 ```
 
-![[Pasted image 20220513200709.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513200709.png)
 
-![[Pasted image 20220513200638.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513202538.png)
 
 ### User role can be modified in user profile
 ```bash
@@ -117,12 +117,12 @@ Cookie: session=FXhMokS0myZHILr6znWh5a3MQeVlk6EO; Admin=true
 
 Login as wiener:peter
 Go to: "My account"
-Intercept is on
+Intercept is onOLD_LINE_PATTERN
 Change email to preferred choice
 Send the POST request to repeater
 
 POST /my-account/change-email HTTP/1.1
-
+OLD_LINE_PATTERN
 Change:
 
 {
@@ -150,7 +150,7 @@ ac611f9c1f58d205c19b3a7a00820069.web-security-academy.net/admin
 
 ```
 
-![[Pasted image 20220513202751.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513202751.png)
 
 ![[Pasted image 20220513202826.png]]
 
@@ -216,13 +216,13 @@ After sending this request the username "carlos" should be deleted
 
 ```
 
-![[Pasted image 20220513205624.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513205624.png)
 
-![[Pasted image 20220513205652.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513205652.png)
 
-![[Pasted image 20220513210446.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513210446.png)
 
-![[Pasted image 20220513210215.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220513210215.png)
 
 ### Method-based access control can be circumvented
 ```bash
@@ -273,19 +273,19 @@ GET /admin-roles?username=wiener&action=upgrade HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001023.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001023.png)
 
-![[Pasted image 20220514001101.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001101.png)
 
-![[Pasted image 20220514001145.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001145.png)
 
-![[Pasted image 20220514001213.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001213.png)
 
-![[Pasted image 20220514001248.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001248.png)
 
-![[Pasted image 20220514001323.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001323.png)
 
-![[Pasted image 20220514001352.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/20220514001352.png)
 
 ### User ID controlled by request parameter
 ```bash
