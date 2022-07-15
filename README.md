@@ -15,4 +15,4 @@
 
 [Cross-Site Request Forgery (CSRF)](/cross_site_request_forgery_CSRF.md)
 
-[Directory Traversal](/directory_traversal.md.md)
+[Directory Traversal](/directory_traversal.md)
