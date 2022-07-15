@@ -12,3 +12,5 @@
 [Command Injection](/command_injection.md)
 
 [Cross-Origin Resource Sharing (CORS)](/cross_origin_resource_sharing_CORS.md)
+
+[Cross-Site Request Forgery (CSRF)](/cross_site_request_forgery_CSRF.md)
