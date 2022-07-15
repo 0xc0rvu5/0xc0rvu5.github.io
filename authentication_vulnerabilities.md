@@ -905,7 +905,7 @@ username=wiener&current-password=peter2&new-password-1=1234&new-password-2=12345
 Send to intruder
 
 username=carlos&current-password=§peter2§&new-password-1=1234&new-password-2=1234567
-![[Pasted image 20220511000225.png]]
+
 Go to: Payloads
 Insert the password list
 Go to: Options -> Grep - Match -> Add
