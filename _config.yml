@@ -6,3 +6,4 @@ permalink: /authentication_vulnerabilities.md
 permalink: business_logic_vulnerabilities.md
 theme: jekyll-theme-hacker
 permalink: clickjacking.md
+permalink: command_injection.md

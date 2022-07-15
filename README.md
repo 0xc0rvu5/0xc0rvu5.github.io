@@ -8,3 +8,5 @@
 [Business Logic Vulnerabilities](/business_logic_vulnerabilities.md)
 
 [Clickjacking](/clickjacking.md)
+
+[Command Injection](/command_injection.md)
