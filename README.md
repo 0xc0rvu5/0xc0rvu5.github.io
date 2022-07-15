@@ -6,3 +6,5 @@
 [Authentication Vulnerabilities](/authentication_vulnerabilities.md)
 
 [Business Logic Vulnerabilities](/business_logic_vulnerabilities.md)
+
+[Clickjacking](/clickjacking.md)
