@@ -10,3 +10,5 @@
 [Clickjacking](/clickjacking.md)
 
 [Command Injection](/command_injection.md)
+
+[Cross-Origin Resource Sharing (CORS)](/cross_origin_resource_sharing_CORS.md)
