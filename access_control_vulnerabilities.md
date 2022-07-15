@@ -105,7 +105,7 @@ Cookie: session=FXhMokS0myZHILr6znWh5a3MQeVlk6EO; Admin=true
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513200709.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202538.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513200638.png)
 
 ### User role can be modified in user profile
 ```bash
