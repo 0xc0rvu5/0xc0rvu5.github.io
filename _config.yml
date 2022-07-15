@@ -2,4 +2,5 @@ layout: page
 #title: 'c0rvu5'
 permalink: /test.md
 permalink: /access_control_vulnerabilities.md
+permalink: /authentication_vulnerabilities.md
 theme: jekyll-theme-hacker
