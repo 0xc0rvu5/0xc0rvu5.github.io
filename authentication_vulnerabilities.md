@@ -641,8 +641,9 @@ There will be one "200" code verifying success
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509222759.png)
 
 ### Offline password cracking
-- Using stored XSS to retrieve vulnerable "stay-logged-in" cookies which have a Base-64 encoded uname:pword with the pword being an MD5 hash
 ```bash
+
+- Using stored XSS to retrieve vulnerable "stay-logged-in" cookies which have a Base-64 encoded uname:pword with the pword being an MD5 hash
 
 This lab stores the user's password hash in a cookie. The lab also contains an XSS vulnerability in the comment functionality. To solve the lab, obtain Carlos's `stay-logged-in` cookie and use it to crack his password. Then, log in as `carlos` and delete his account from the "My account" page.
 
@@ -679,6 +680,7 @@ Go back to exploit server and check the logs
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509231023.png)
 
 ### Password reset broken logic
+
 ```bash
 
 This lab's password reset functionality is vulnerable. To solve the lab, reset Carlos's password then log in and access his "My account" page.
