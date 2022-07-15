@@ -1,4 +1,4 @@
- # Portswigger
+# Portswigger
 ## Business Logic Vulnerabilities // Application Logic Vulnerabilities
 ### Excessive trust in client-side controls
 ```bash
@@ -19,9 +19,9 @@ Go to cart and purchase for $0.02
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511011232.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042545.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511011256.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715035727.png)
 
 ### High-level logic vulnerability
 ```bash
@@ -41,9 +41,9 @@ Buy the product for $4.18
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511012725.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715035752.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511012706.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715035820.png)
 
 ### Low-level logic flaw
 ```bash
@@ -82,24 +82,23 @@ Use the additional item you added into the cart and add this item until you have
 
 ```
 
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042621.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511014841.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042655.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511014858.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040046.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511014927.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042727.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511014944.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042753.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511015012.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040158.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511015036.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040224.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511021539.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040240.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511021556.png)
-
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511021740.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042835.png)
 
 ### Inconsistent handling of exceptional input
 ```bash
@@ -174,16 +173,15 @@ Visit the admin panel and delete the user 'carlos'
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511190638.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040420.png)
 
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040445.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511190608.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040518.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511192646.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040611.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511192733.png)
-
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511192956.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040648.png)
 
 ### Inconsistent security controls
 ```bash
@@ -270,10 +268,9 @@ Login as administrator:peter2
 
 ```
 
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715040951.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511223641.png)
-
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511224000.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041050.png)
 
 ### Insufficient workflow validation
 ```bash
@@ -306,13 +303,13 @@ GET /cart/order-confirmation?order-confirmed=true HTTP/1.
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511230943.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041156.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511231018.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041229.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511231042.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041322.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511231108.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041354.png)
 
 ### Authentication bypass via flawed state machine
 ```bash
@@ -352,7 +349,7 @@ Go to bottom of page and enter an email address
 
 Add "Lightweight l33t leather jacket" to cart
 Go to Cart
-Add the 'NEWCUST5' coupon
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041257.png)
 Add the 'SIGNUP30' coupon
 Add the 'NEWCUST5' coupon
 Add the 'SIGNUP30' coupon
@@ -360,7 +357,7 @@ Repeat this process until the total is $0.00
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512170629.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041427.png)
 
 ### Infinite money logic flaw
 ```bash
@@ -431,17 +428,17 @@ Purchase "Lightweight l33t leather jacket"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512172619.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041504.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512172939.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041529.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512173325.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041603.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512174426.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041645.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512174708.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041711.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512174749.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041736.png)
 
 ### Authentication bypass via encryption oracle
 ```bash
@@ -624,31 +621,30 @@ Access the "Admin panel" and delete the user "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512193509.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041833.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512194322.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041903.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512194441.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041932.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512202144.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715041957.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512203044.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042041.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512203138.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042113.png)
 
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042139.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512204705.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042206.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512204809.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042232.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512204930.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042256.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512205224.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042319.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512205344.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042350.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512205407.png)
-
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512205934.png)
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220715042414.png)
 
 #hacking
