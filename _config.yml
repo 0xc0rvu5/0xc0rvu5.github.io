@@ -3,4 +3,5 @@ layout: page
 permalink: /test.md
 permalink: /access_control_vulnerabilities.md
 permalink: /authentication_vulnerabilities.md
+permalink: business_logic_vulnerabilities.md
 theme: jekyll-theme-hacker
