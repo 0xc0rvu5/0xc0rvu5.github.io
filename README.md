@@ -1,8 +1,6 @@
 # Write-ups
 ## Portswigger
 
-[XXE Injection](/XXE_injection.md)
-
 [Access Control Vulnerabilities](/access_control_vulnerabilities.md)
 
 [Authentication Vulnerabilities](/authentication_vulnerabilities.md)
@@ -37,7 +35,7 @@
 
 [Server-Side Request Forgery (SSRF)](/server_side_request_forgery_SSRF.md)
 
-[Server-Side Template Injection (SSTI)](/server_side_template_injection_SSTI.md)
+#[Server-Side Template Injection (SSTI)](/server_side_template_injection_SSTI.md)
 
 [SQLi](/SQLi.md)
 
