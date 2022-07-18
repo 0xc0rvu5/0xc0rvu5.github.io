@@ -1,6 +1,7 @@
 # Portswigger
 ## XML eternal entity (XXE) Injection
 - In XML `&lt;` and `&gt;` represent the characters `<` and `>`.
+
 ### Exploiting XXE using external entities to retrieve files
 ```bash
 
