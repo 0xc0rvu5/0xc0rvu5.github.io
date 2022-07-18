@@ -78,3 +78,5 @@
 [Cascade](/cascade.md)
 
 [Forest](/forest.md)
+
+[Mantis](/mantis.md)
