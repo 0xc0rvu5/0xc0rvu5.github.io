@@ -26,3 +26,5 @@
 [HTTP Request Smuggling](/HTTP_request_smuggling.md)
 
 [Information Disclosure Vulnerabilities](/information_disclosure_vulnerabilities.md)
+
+[Insecure Deserialization](/insecure_deserialization.md)
