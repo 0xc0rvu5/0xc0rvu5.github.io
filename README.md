@@ -38,3 +38,5 @@
 [Server-Side Template Injection (SSTI)](/server_side_template_injection_SSTI.md)
 
 [SQLi](/SQLi.md)
+
+[Web Cache Poisoning](/web_cache_poisoning.md)
