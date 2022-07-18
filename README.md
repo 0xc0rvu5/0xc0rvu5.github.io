@@ -24,3 +24,5 @@
 [HTTP Host Header Vulnerabilities](/HTTP_host_header_vulnerabilities.md)
 
 [HTTP Request Smuggling](/HTTP_request_smuggling.md)
+
+[Information Disclosure Vulnerabilities](/information_disclosure_vulnerabilities.md)
