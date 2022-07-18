@@ -84,3 +84,5 @@
 [Multimaster](/multimaster.md)
 
 [Reel](/reel.md)
+
+[Resolute](/resolute.md)
