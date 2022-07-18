@@ -20,3 +20,5 @@
 [DOM-Based Vulnerabilities](/DOM_based_vulnerabilities.md)
 
 [File Upload Vulnerabilities](/file_upload_vulnerabilities.md)
+
+[HTTP Host Header Vulnerabilities](/HTTP_host_header_vulnerabilities.md)
