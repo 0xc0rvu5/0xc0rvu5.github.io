@@ -18,3 +18,5 @@
 [Directory Traversal](/directory_traversal.md)
 
 [DOM-Based Vulnerabilities](/DOM_based_vulnerabilities.md)
+
+[File Upload Vulnerabilities](/file_upload_vulnerabilities.md)
