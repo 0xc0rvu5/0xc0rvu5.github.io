@@ -1,11 +1,8 @@
 layout: page
-#title: 'c0rvu5'
 theme: jekyll-theme-hacker
-permalink: /test.md
 permalink: /access_control_vulnerabilities.md
 permalink: /authentication_vulnerabilities.md
 permalink: /business_logic_vulnerabilities.md
-#theme: jekyll-theme-hacker
 permalink: /clickjacking.md
 permalink: /command_injection.md
 permalink: /cross_origin_resource_sharing_CORS.md
