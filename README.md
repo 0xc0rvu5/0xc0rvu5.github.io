@@ -88,3 +88,5 @@
 [Resolute](/resolute.md)
 
 [Sauna](/sauna.md)
+
+[Sizzle](/sizzle.md)
