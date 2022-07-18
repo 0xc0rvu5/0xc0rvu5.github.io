@@ -1,7 +1,7 @@
 # Find The Easy Pass
 ## Ghidra
 ## OllyDbg
-```bash
+``````
 
 ➜  Find_The_Easy_Pass unzip Find\ The\ Easy\ Pass.zip
 
@@ -72,7 +72,7 @@ Password:
 
 fortran!
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621074458.png)
 
