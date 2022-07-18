@@ -1015,7 +1015,7 @@ View source or open developer tools and Ctrl+f search for string "123456"
 Note that the search results are within the html body tag called 'np-app'
 Type into search:
 
-{{$on.constructor('alert(1)')()}}
+#{{$on.constructor('alert(1)')()}}
 
 ```
 

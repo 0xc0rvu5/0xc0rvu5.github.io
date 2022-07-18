@@ -35,7 +35,7 @@
 
 [Server-Side Request Forgery (SSRF)](/server_side_request_forgery_SSRF.md)
 
-#[Server-Side Template Injection (SSTI)](/server_side_template_injection_SSTI.md)
+[Server-Side Template Injection (SSTI)](/server_side_template_injection_SSTI.md)
 
 [SQLi](/SQLi.md)
 
