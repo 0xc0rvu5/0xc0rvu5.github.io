@@ -13,7 +13,7 @@ permalink: /cross_site_request_forgery_CSRF.md
 permalink: /directory_traversal.md
 permalink: /DOM_based_vulnerabilities.md
 permalink: /file_upload_vulnerabilities.md
-permalink: HTTP_host_header_vulnerabilities.md
+permalink: /HTTP_host_header_vulnerabilities.md
 permalink: /HTTP_request_smuggling.md
 permalink: /information_disclosure_vulnerabilities.md
 permalink: /insecure_deserialization.md
@@ -21,3 +21,4 @@ permalink: /JWT_attacks.md
 permalink: /OAuth_authentication.md
 permalink: /server_side_request_forgery_SSRF.md
 permalink: /server_side_template_injection_SSTI.md
+permalink: /SQLi.md
