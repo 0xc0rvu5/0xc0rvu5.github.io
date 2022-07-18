@@ -28,3 +28,5 @@
 [Information Disclosure Vulnerabilities](/information_disclosure_vulnerabilities.md)
 
 [Insecure Deserialization](/insecure_deserialization.md)
+
+[JWT Attacks](/JWT_attacks.md)
