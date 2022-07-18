@@ -14,3 +14,4 @@ permalink: /directory_traversal.md
 permalink: /DOM_based_vulnerabilities.md
 permalink: /file_upload_vulnerabilities.md
 permalink: HTTP_host_header_vulnerabilities.md
+permalink: /HTTP_request_smuggling.md

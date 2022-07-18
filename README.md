@@ -22,3 +22,5 @@
 [File Upload Vulnerabilities](/file_upload_vulnerabilities.md)
 
 [HTTP Host Header Vulnerabilities](/HTTP_host_header_vulnerabilities.md)
+
+[HTTP Request Smuggling](/HTTP_request_smuggling.md)
