@@ -64,3 +64,5 @@
 [Under Construction](/under_construction.md)
 
 [Weak RSA](/weak_rsa.md)
+
+[You Know 0xDiablos](/you_know_0xdiablos.md)
