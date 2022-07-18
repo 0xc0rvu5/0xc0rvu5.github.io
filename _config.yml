@@ -20,3 +20,4 @@ permalink: /insecure_deserialization.md
 permalink: /JWT_attacks.md
 permalink: /OAuth_authentication.md
 permalink: /server_side_request_forgery_SSRF.md
+permalink: /server_side_template_injection_SSTI.md
