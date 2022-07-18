@@ -40,3 +40,5 @@
 [SQLi](/SQLi.md)
 
 [Web Cache Poisoning](/web_cache_poisoning.md)
+
+[WebSockets](/web_sockets.md)
