@@ -46,3 +46,9 @@
 [XSS](/XSS.md)
 
 [XXE Injection](/XXE_injection.md)
+
+## Hack The Box
+## Beginner Track
+
+
+[Blue](/blue.md)
