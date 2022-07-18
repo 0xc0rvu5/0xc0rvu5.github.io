@@ -44,3 +44,5 @@
 [WebSockets](/web_sockets.md)
 
 [XSS](/XSS.md)
+
+[XXE Injection](/XXE_injection.md)
