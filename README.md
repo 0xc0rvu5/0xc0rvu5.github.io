@@ -30,3 +30,5 @@
 [Insecure Deserialization](/insecure_deserialization.md)
 
 [JWT Attacks](/JWT_attacks.md)
+
+[OAuth Authentication](/OAuth_authentication.md)
