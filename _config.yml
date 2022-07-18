@@ -19,3 +19,4 @@ permalink: /information_disclosure_vulnerabilities.md
 permalink: /insecure_deserialization.md
 permalink: /JWT_attacks.md
 permalink: /OAuth_authentication.md
+permalink: /server_side_request_forgery_SSRF.md

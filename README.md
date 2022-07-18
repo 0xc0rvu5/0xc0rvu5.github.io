@@ -32,3 +32,5 @@
 [JWT Attacks](/JWT_attacks.md)
 
 [OAuth Authentication](/OAuth_authentication.md)
+
+[Server-Side Request Forgery (SSRF)](/server_side_request_forgery_SSRF.md)
