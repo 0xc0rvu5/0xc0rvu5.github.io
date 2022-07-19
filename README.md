@@ -101,3 +101,5 @@
 [Explore](/explore.md)
 
 [Manager](/manager.md)
+
+[Pinned](/pinned.md)
