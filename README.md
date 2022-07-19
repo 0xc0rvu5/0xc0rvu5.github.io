@@ -95,3 +95,5 @@
 
 
 [APKey](/apkey.md)
+
+[APKrypt](/apkrypt.md)
