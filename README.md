@@ -99,3 +99,5 @@
 [APKrypt](/apkrypt.md)
 
 [Explore](/explore.md)
+
+[Manager](/manager.md)
