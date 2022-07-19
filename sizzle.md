@@ -901,7 +901,7 @@ root_flag
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705150759.png)
 
-![[Pasted image 20220705134146.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705134146.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705135708.png)
 

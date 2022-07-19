@@ -197,13 +197,13 @@ Welcome HTB{flag}<br>
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213902.png)
 
-![[Pasted image 20220624213402.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213402.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213333.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624214421.png)
 
-![[Pasted image 20220624214947.png]]
+![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624214947.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624215301.png)
 
