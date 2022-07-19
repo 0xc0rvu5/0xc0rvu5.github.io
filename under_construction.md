@@ -2,7 +2,7 @@
 ## JWT
 ## SQLi
 ### Refer to for additional information:
-[[Portswigger/JWT Attacks/Portswigger]]
+[JWT Attacks](/JWT_attacks.md)
 ##### JWT authentication bypass via algorithm confusion with no exposed key
 ``````
 

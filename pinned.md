@@ -110,11 +110,13 @@ com.example.pinned on (Android: 5.1.1) [usb] # android sslpinning disable
 ### References
 ##### Android Studio
 https://developer.android.com/studio
+
 https://www.hackthebox.com/blog/intro-to-mobile-pentesting
 ##### Frida
 https://github.com/frida/frida/
 ##### Objection
 https://www.youtube.com/watch?v=SEySgg3vQjg
+
 https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625234454.png)
