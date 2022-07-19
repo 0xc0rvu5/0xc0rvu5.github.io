@@ -1,4 +1,7 @@
 # Write-ups
+### For a downloadable pdf version of write-ups visit:
+[My Website](https://bmwalsh.net/)
+
 # Hack The Box
 ## Active Directory 101
 
