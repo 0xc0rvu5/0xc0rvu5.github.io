@@ -84,9 +84,9 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603011922.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603011922.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603012804.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603012804.png)
 
 ### Web cache poisoning with an unkeyed cookie
 ```bash
@@ -161,11 +161,11 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603015044.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603015044.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603015202.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603015202.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603015806.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603015806.png)
 
 ### Web cache poisoning with multiple headers
 ```bash
@@ -238,17 +238,17 @@ https://exploit-0a5f00eb04f2c5c9c0c6ab95012800a7.web-security-academy.net/
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603203852.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603203852.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603203923.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603203923.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603203500.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603203500.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603203706.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603203706.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603204955.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603204955.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603205333.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603205333.png)
 
 ### Targeted web cache poisoning using an unknown header
 ```bash
@@ -370,19 +370,19 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603213055.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603213055.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603213122.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603213122.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603213150.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603213150.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603213022.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603213022.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603214621.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603214621.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603215401.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603215401.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603223758.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603223758.png)
 
 ### Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria
 ```bash
@@ -477,17 +477,17 @@ Refresh the page (Continuously)
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603233446.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603233446.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603225656.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603225656.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603231238.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603231238.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603231142.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603231142.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603233151.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603233151.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220603233250.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220603233250.png)
 
 ### Combining web cache poisoning vulnerabilities
 ```bash
@@ -664,27 +664,27 @@ Fire both requests off simultaneously
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604004318.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604004318.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604005218.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604005218.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604005242.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604005242.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604005338.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604005338.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604005846.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604005846.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604005905.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604005905.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604010750.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604010750.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604011237.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604011237.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604011259.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604011259.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604014615.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604014615.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604014713.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604014713.png)
 
 ### Web cache poisoning via an unkeyed query string
 ```bash
@@ -744,11 +744,11 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604031104.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604031104.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604031132.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604031132.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604030525.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604030525.png)
 
 ### Web cache poisoning via an unkeyed query parameter
 ```bash
@@ -819,11 +819,11 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604032746.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604032746.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604032815.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604032815.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604034006.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604034006.png)
 
 ### Parameter cloaking
 ```bash
@@ -898,19 +898,19 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604210506.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604210506.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604210600.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604210600.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604210622.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604210622.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604210658.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604210658.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604210721.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604210721.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604212509.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604212509.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604212349.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604212349.png)
 
 ### Web cache poisoning via a fat GET request
 ```bash
@@ -999,13 +999,13 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604213727.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604213727.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604215004.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604215004.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604220019.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604220019.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604220314.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604220314.png)
 
 ### URL normalization
 ```bash
@@ -1068,15 +1068,15 @@ OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604223328.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604223328.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604223426.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604223426.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604223500.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604223500.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604223514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604223514.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220604223605.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220604223605.png)
 
 ### Cache key injection
 ```bash
@@ -1159,21 +1159,21 @@ Right-click response -> Show response in browser -> Copy -> Paste in browser
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605192748.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605192748.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605192804.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605192804.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605192834.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605192834.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605192858.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605192858.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605192930.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605192930.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605193103.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605193103.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605193234.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605193234.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605193328.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605193328.png)
 
 ### Internal cache poisoning
 ```bash
@@ -1224,10 +1224,10 @@ Send (Numerous times)
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605195145.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605195145.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605200424.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605200424.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605201107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605201107.png)
 
 #hacking

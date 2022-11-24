@@ -74,32 +74,32 @@ fortran!
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621074458.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621074458.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621074559.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621074559.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621085331.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621085331.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621080650.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621080650.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621080841.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621080841.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621080949.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621080949.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621081031.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621081031.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621081346.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621081346.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621081844.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621081844.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621081924.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621081924.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621082741.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621082741.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621082833.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621082833.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621083220.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621083220.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621084911.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621084911.png)
 
 #hacking

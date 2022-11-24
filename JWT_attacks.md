@@ -72,17 +72,17 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231916.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231916.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613232059.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613232059.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613232148.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613232148.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613232219.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613232219.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613232242.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613232242.png)
 
 ### JWT authentication bypass via flawed signature verification
 ```bash
@@ -155,19 +155,19 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234107.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234405.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234405.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234436.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234436.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234518.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234518.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234603.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234603.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613234623.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613234623.png)
 
 ### JWT authentication bypass via weak signing key
 ```bash
@@ -276,29 +276,29 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614002111.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614002111.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614001818.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614001818.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614003347.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614003347.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614000426.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614000426.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614000337.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614000337.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614002313.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614002313.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614002806.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614002806.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614002702.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614002702.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614002947.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614002947.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614003031.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614003031.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614003054.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614003054.png)
 
 ### JWT authentication bypass via jwk header injection
 ```bash
@@ -372,23 +372,23 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010035.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010035.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010355.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010355.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010638.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010638.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010702.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010702.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010748.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010748.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010913.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010913.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614010951.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614010951.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614011014.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614011014.png)
 
 ### JWT authentication bypass via jku header injection
 ```bash
@@ -510,25 +510,25 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614023845.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614023845.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614030050.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614030050.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614024447.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614024447.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614025212.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614025212.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614025935.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614025935.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614023626.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614023626.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614030255.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614030255.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614030330.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614030330.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220614030357.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220614030357.png)
 
 ### JWT authentication bypass via kid header path traversal
 ```bash
@@ -617,19 +617,19 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618101522.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618101522.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618101821.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618101821.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618102114.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618102114.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618102255.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618102255.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618102326.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618102326.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618102347.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618102347.png)
 
 ### JWT authentication bypass via algorithm confusion
 ```bash
@@ -734,27 +734,27 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618055826.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618055826.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618054618.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618054618.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618060048.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618060048.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618060356.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618060356.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618060756.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618060756.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618061028.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618061028.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618061245.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618061245.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618061322.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618061322.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618061352.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618061352.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618061413.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618061413.png)
 
 ### JWT authentication bypass via algorithm confusion with no exposed key
 ```bash
@@ -909,28 +909,28 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220613231853.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220613231853.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618082548.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618082548.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618082702.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618082702.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618083301.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618083301.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618083342.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618083342.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618084217.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618084217.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618084359.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618084359.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618084925.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618084925.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618085212.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618085212.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618085255.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618085255.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618085330.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618085330.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220618085353.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220618085353.png)
 
 #hacking

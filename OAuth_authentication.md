@@ -38,9 +38,9 @@ Send
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610223837.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610223837.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610224036.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610224036.png)
 
 ### Forced OAuth profile linking
 ```bash
@@ -102,13 +102,13 @@ Delete username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610230005.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610230005.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610230235.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610230235.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610230202.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610230202.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610231616.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610231616.png)
 
 ### OAuth account hijacking via redirect_uri
 ```bash
@@ -212,19 +212,19 @@ Delete the username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010349.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010349.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010520.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010520.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010544.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010544.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010703.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010703.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611011230.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611011230.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010741.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010741.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611010242.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611010242.png)
 
 ### Stealing OAuth access tokens via an open redirect
 ```bash
@@ -377,15 +377,15 @@ Send
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611232405.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611232405.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611230128.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611230128.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611231923.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611231923.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611231509.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611231509.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611233851.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611233851.png)
 
 ### Stealing OAuth access tokens via a proxy page
 ```bash
@@ -498,19 +498,19 @@ Send
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611235745.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611235745.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611235829.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611235829.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612000005.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612000005.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611235602.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611235602.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611233646.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611233646.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612000107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612000107.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220611233924.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220611233924.png)
 
 ### SSRF via OpenID dynamic client registration
 ```bash
@@ -690,22 +690,22 @@ Response:
 
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013147.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013147.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013207.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013207.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013117.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013117.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013318.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013318.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013512.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013512.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013644.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013644.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013805.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013805.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612013950.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612013950.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220612014103.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220612014103.png)
 
 #hacking

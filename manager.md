@@ -109,22 +109,22 @@ HTTP/1.1 200 OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627000415.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627000415.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627003243.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627003243.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627004403.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627004403.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627001414.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627001414.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627001607.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627001607.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627001525.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627001525.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627002147.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627002147.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627002244.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627002244.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627002414.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627002414.png)
 
 #hacking

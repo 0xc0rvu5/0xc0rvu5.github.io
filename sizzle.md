@@ -811,98 +811,98 @@ root_flag
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705074944.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705074944.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705073517.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705073517.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705075014.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705075014.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705074558.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705074558.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705080829.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705080829.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705084851.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705084851.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705083634.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705083634.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705083705.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705083705.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705084113.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705084113.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705084147.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705084147.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705085743.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705085743.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705091234.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705091234.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705095957.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705095957.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100038.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100038.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100140.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100140.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100627.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100627.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100729.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100729.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100859.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100859.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705100935.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705100935.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705101055.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705101055.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705101226.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705101226.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705102003.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705102003.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144212.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144212.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144243.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144243.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144320.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144320.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144410.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144410.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144121.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144121.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144550.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144550.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144521.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144521.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705144817.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705144817.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705152316.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705152316.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705152401.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705152401.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705155455.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705155455.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705124442.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705124442.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705130646.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705130646.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705130616.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705130616.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705130728.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705130728.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705140721.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705140721.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705140756.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705140756.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220709152628.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220709152628.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705145914.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705145914.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705150414.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705150414.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705150608.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705150608.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705150630.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705150630.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705150759.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705150759.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705134146.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705134146.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220705135708.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220705135708.png)
 
 #hacking

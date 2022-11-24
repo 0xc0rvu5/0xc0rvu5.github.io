@@ -45,11 +45,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522171630.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522171630.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522171810.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522171810.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522171830.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522171830.png)
 
 ### CSRF where token validation depends on request method
 ```bash
@@ -120,7 +120,7 @@ Deliver to exploit
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522180051.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522180051.png)
 
 ### CSRF where token validation depends on token being present
 ```bash
@@ -155,11 +155,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522180458.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522180458.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522180535.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522180535.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522180935.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522180935.png)
 
 ### CSRF where token is not tied to user session
 ```bash
@@ -322,11 +322,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522223355.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522223355.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522223418.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522223418.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522224659.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522224659.png)
 
 ### CSRF where token is duplicated in cookie
 ```bash
@@ -425,11 +425,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522232733.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522232733.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522232701.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522232701.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522232818.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522232818.png)
 
 ### CSRF where Referer validation depends on header being present
 ```bash
@@ -510,15 +510,15 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523000348.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523000348.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523000408.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523000408.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523000427.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523000427.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523000445.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523000445.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523000520.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523000520.png)
 
 ### # CSRF with broken Referer validation
 ```bash
@@ -580,9 +580,9 @@ Body:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523002227.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523002227.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220523002313.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220523002313.png)
 
 
 

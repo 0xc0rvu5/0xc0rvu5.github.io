@@ -52,23 +52,23 @@ Do the same with the following end-point:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530000507.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530000507.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530000532.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530000532.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530000554.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530000554.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530000849.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530000849.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530000727.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530000727.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530001054.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530001054.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530001334.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530001334.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530001501.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530001501.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530001538.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530001538.png)
 
 ### Modifying serialized data types
 ```bash
@@ -127,19 +127,19 @@ Do the same with the following end-point:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530003052.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530003052.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530003128.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530003128.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530003149.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530003149.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530004432.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530004432.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530004455.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530004455.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530004629.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530004629.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530004646.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530004646.png)
 
 ### Using application functionality to exploit insecure deserialization
 ```bash
@@ -185,17 +185,17 @@ Ctrl+u to URL-encode (There are no characters needed for URL-encoding, but consi
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531005411.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531005411.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531004836.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531004836.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531004907.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531004907.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531004924.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531004924.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531005024.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531005024.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531005143.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531005143.png)
 
 ### Arbitrary object injection in PHP
 ```bash
@@ -254,17 +254,17 @@ Ctrl+u
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530211947.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530211947.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530211924.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530211924.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530212023.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530212023.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530212346.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530212346.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530212411.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530212411.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530212453.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530212453.png)
 
 ### Exploiting Java deserialization with Apache Commons
 ```bash
@@ -316,21 +316,21 @@ With the newly URL-encoded content
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530233335.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530233335.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530233516.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530233516.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530233417.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530233417.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530233554.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530233554.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530233642.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530233642.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530234216.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530234216.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530234540.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530234540.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220530234931.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220530234931.png)
 
 ### Exploiting PHP deserialization with a pre-built gadget chain
 ```bash
@@ -412,23 +412,23 @@ Copy the output and replace the current cookie with the newly created cookie
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531001445.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531001445.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531001556.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531001556.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531003035.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531003035.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531002314.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531002314.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531003542.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531003542.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531010535.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531010535.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531010754.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531010754.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531011343.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531011343.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531011204.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531011204.png)
 
 ### Exploiting Ruby deserialization using a documented gadget chain
 ```bash
@@ -563,23 +563,23 @@ GET /my-account HTTP/1.
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531223825.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531223825.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531224644.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531224644.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531224715.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531224715.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531224742.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531224742.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531224820.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531224820.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531225135.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531225135.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531225250.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531225250.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531225325.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531225325.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531225830.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531225830.png)
 
 ### Developing a custom gadget chain for Java deserialization
 ```bash
@@ -744,31 +744,31 @@ Delete username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531231331.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531231331.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531231419.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531231419.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531231440.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531231440.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531231352.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531231352.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531231531.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531231531.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601022406.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601022406.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601022611.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601022611.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220531235113.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220531235113.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601021740.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601021740.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601022514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601022514.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601023821.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601023821.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601021850.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601021850.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601021702.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601021702.png)
 
 ### Developing a custom gadget chain for PHP deserialization
 ```bash
@@ -826,19 +826,19 @@ Replace the cookie: session= with the new-found cookie
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601010952.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601010952.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601011011.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601011011.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601011030.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601011030.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601011048.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601011048.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601010631.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601010631.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601010656.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601010656.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601011648.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601011648.png)
 
 ### Using PHAR deserialization to deploy a custom gadget chain
 ```bash
@@ -881,14 +881,14 @@ GET /cgi-bin/avatar.php?avatar=phar://wiener HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601014442.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601014442.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601014505.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601014505.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601014542.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601014542.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601014740.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601014740.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601020246.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601020246.png)
 
 #hacking

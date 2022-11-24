@@ -119,26 +119,26 @@ https://www.youtube.com/watch?v=SEySgg3vQjg
 
 https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625234454.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220625234454.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625234909.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220625234909.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625202736.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220625202736.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626004811.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626004811.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626005227.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626005227.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626005150.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626005150.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626005528.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626005528.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626010117.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626010117.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626010051.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626010051.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626010726.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626010726.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220626011015.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220626011015.png)
 
 #hacking 

@@ -31,13 +31,13 @@ Start Attack
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506211935.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506211935.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506212047.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506212047.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506212121.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506212121.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506213028.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506213028.png)
 
 ### Username enumeration via subtly different responses
 ```bash
@@ -72,9 +72,9 @@ The "Length" column has a large variation and will be the password
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506214107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506214107.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506212121.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506212121.png)
 
 ### Username enumeration via response timing
 ```bash
@@ -146,23 +146,23 @@ There should be a status code of "302" like when signing into 'wiener:peter'
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506230843.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506230843.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506230815.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506230815.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506231514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506231514.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506231722.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506231722.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506232141.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506232141.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506232210.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506232210.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506232327.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506232327.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506232514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506232514.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506232756.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506232756.png)
 
 ### Broken brute-force protection, IP block
 ```bash
@@ -224,9 +224,9 @@ There should be a corrent password for carlos
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507195457.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507195457.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507204632.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507204632.png)
 
 #### Username enumeration via account lock
 ```bash
@@ -277,15 +277,15 @@ alerts
 
 aaaaaa
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507211510.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507211510.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507211533.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507211533.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507211425.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507211425.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507212815.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507212815.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220507212738.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220507212738.png)
 
 #### Broken brute-force protection, multiple credentials per request
 ```bash
@@ -506,17 +506,17 @@ Right-click response -> "Show response in browser" -> Copy -> Paste in browser
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509182849.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509182849.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509182916.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509182916.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509183003.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509183003.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509183029.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509183029.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509183045.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509183045.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509181948.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509181948.png)
 
 ### 2FA bypass using a brute-force attack
 ```bash
@@ -569,15 +569,15 @@ Maximum concurrent requests: 1
 ```
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509024807.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509024807.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509025158.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509025158.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509025549.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509025549.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509025613.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509025613.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509025639.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509025639.png)
 
 ### Brute-forcing a stay-logged-in cookie
 ```bash
@@ -624,21 +624,21 @@ There will be one "200" code verifying success
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223049.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223049.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223116.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223116.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223144.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223144.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223225.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223225.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223254.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223254.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509223014.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509223014.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509222915.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509222915.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509222759.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509222759.png)
 
 ### Offline password cracking
 ```bash
@@ -677,7 +677,7 @@ Go back to exploit server and check the logs
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509231023.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509231023.png)
 
 ### Password reset broken logic
 
@@ -720,13 +720,13 @@ Log in as carlos:peter
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509234958.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509234958.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509234942.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509234942.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509235029.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509235029.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220509235418.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220509235418.png)
 
 ### Password reset poisoning via middleware
 ```bash
@@ -763,9 +763,9 @@ Reset the password
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510191807.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510191807.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510001831.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510001831.png)
 
 ### Basic password reset poisoning
 ```bash
@@ -812,11 +812,11 @@ Reset the user 'carlos' password
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510001807.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510001807.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510191917.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510191917.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510192100.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510192100.png)
 
 ### Password reset poisoning via dangling markup
 ```bash
@@ -868,11 +868,11 @@ Change the username from "wiener" to "carlos"
 
 RSJdrEz87b
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220510235453.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220510235453.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511000154.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511000154.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511000225.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511000225.png)
 
 
 ### Password brute-force via password change
@@ -916,18 +916,18 @@ There should be one returned password with the above "Grep - Match" search
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003753.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003753.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003728.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003728.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003852.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003852.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003609.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003609.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003634.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003634.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003652.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003652.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220511003931.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220511003931.png)
 
 #hacking

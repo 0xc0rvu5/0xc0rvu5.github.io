@@ -141,11 +141,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527205442.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527205442.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527205544.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527205544.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527205601.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527205601.png)
 
 ### Clickjacking with form input data prefilled from a URL parameter
 ```bash
@@ -272,11 +272,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527211717.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527211717.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527212316.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527212316.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527212352.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527212352.png)
 
 ### Clickjacking with a frame buster script
 ```bash
@@ -408,11 +408,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527213934.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527213934.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527214137.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527214137.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527214102.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527214102.png)
 
 ### Exploiting clickjacking vulnerability to trigger DOM-based XSS
 ```bash
@@ -563,11 +563,11 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529003637.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529003637.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529001214.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529001214.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529002441.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529002441.png)
 
 ### Multistep clickjacking
 ```bash
@@ -701,8 +701,8 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528201435.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528201435.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528201614.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528201614.png)
 
 #hacking 

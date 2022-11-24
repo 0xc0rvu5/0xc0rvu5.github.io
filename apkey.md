@@ -86,18 +86,18 @@ HTB{m0r3_0bfusc4t1on_w0uld_n0t_hurt}
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627053831.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627053831.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627060258.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627060258.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627053912.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627053912.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627060835.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627060835.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627060908.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627060908.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627061005.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627061005.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627053015.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627053015.png)
 
 #hacking

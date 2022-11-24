@@ -347,40 +347,40 @@ root_flag
 https://github.com/cclauss/Python2-and-Python3-in-Docker
 https://github.com/bhdresh/CVE-2017-0199
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703224648.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703224648.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703224712.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703224712.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703232505.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703232505.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703235648.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703235648.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703235726.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703235726.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703235612.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703235612.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220703233908.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220703233908.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704013033.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704013033.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704025633.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704025633.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704025605.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704025605.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704025744.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704025744.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704030003.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704030003.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704030043.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704030043.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704030056.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704030056.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704031858.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704031858.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704032202.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704032202.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704032354.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704032354.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220704032642.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220704032642.png)
 
 #hacking

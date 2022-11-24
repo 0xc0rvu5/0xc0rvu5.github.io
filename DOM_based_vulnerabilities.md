@@ -83,7 +83,7 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528213648.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528213648.png)
 
 ### DOM XSS using web messages and a JavaScript URL
 ```bash
@@ -115,7 +115,7 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528215808.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528215808.png)
 
 ### DOM XSS using web messages and JSON.parse
 ```bash
@@ -136,7 +136,7 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528232236.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528232236.png)
 
 ### Which sinks can lead to DOM-based open-redirection vulnerabilities?
 #### The following are some of the main sinks can lead to DOM-based open-redirection vulnerabilities:
@@ -181,7 +181,7 @@ https://aca91fec1eaebddfc063462700c2002c.web-security-academy.net/post?postId=4&
 
 .```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528233057.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528233057.png)
 
 ### DOM-based cookie manipulation
 ```bash
@@ -208,7 +208,7 @@ Deliver exploit to victim
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220528235022.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220528235022.png)
 
 ### Exploiting DOM clobbering to enable XSS
 ```bash
@@ -255,13 +255,13 @@ Click "Back to blog"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529003343.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529003343.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529003419.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529003419.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529004041.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529004041.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529004114.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529004114.png)
 
 ### Clobbering DOM attributes to bypass HTML filters
 ```bash
@@ -294,6 +294,6 @@ Body:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529010113.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529010113.png)
 
 #hacking

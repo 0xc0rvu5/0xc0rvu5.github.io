@@ -68,15 +68,15 @@ HTTP/1.1 200 OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601205114.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601205114.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601205132.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601205132.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601205048.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601205048.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601204255.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601204255.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601211229.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601211229.png)
 
 ### Basic server-side template injection (code context)
 ```bash
@@ -167,15 +167,15 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601213436.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601213436.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601213451.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601213451.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601213704.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601213704.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601214405.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601214405.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601215011.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601215011.png)
 
 ### Server-side template injection using documentation
 ```bash
@@ -255,17 +255,17 @@ $["freemarker.template.utility.Execute"?new()("rm /home/carlos/morale.txt")]
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601233205.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601233205.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601233222.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601233222.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601232914.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601232914.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601233822.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601233822.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601233841.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601233841.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601234102.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601234102.png)
 
 ### Server-side template injection in an unknown language with a documented exploit
 ```bash
@@ -389,13 +389,13 @@ Send
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220601234926.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220601234926.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602001136.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602001136.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602001424.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602001424.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602001802.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602001802.png)
 
 ### Server-side template injection with information disclosure via user-supplied objects
 ```bash
@@ -440,11 +440,11 @@ b47c1ee6ef9ckx5gfoiwi2x79ep57l1m
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602003900.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602003900.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602011141.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602011141.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602011308.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602011308.png)
 
 ### Server-side template injection in a sandboxed environment
 ```bash
@@ -546,13 +546,13 @@ Output:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602013445.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602013445.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602014309.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602014309.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602014328.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602014328.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602014703.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602014703.png)
 
 ### Server-side template injection with a custom exploit
 ```bash
@@ -736,33 +736,33 @@ blog-post-author-display=user.gdprDelete()&csrf=2lBmtB05EzcuAUQDwapveJa0k0t2dTvm
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602015431.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602015431.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602015514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602015514.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602015536.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602015536.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602020549.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602020549.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602021057.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602021057.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602021106.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602021106.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602022327.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602022327.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602021802.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602021802.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602021920.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602021920.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602022419.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602022419.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602022358.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602022358.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602022525.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602022525.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602022956.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602022956.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220602030914.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220602030914.png)
 
 #hacking
 

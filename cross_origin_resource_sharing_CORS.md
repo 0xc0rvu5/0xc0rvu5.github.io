@@ -80,11 +80,11 @@ View exploit
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220525231617.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220525231617.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220525233554.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220525233554.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220525233834.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220525233834.png)
 
 ### CORS vulnerability with trusted null origin
 ```bash
@@ -153,11 +153,11 @@ View exploit
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220525235437.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220525235437.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220525235504.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220525235504.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526000402.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526000402.png)
 
 ### CORS vulnerability with trusted insecure protocols
 ```bash
@@ -225,17 +225,17 @@ Access log
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526002619.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526002619.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526002641.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526002641.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526005716.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526005716.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526005633.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526005633.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526005611.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526005611.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220526011118.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220526011118.png)
 
 ### CORS vulnerability with internal network pivot attack
 ```bash
@@ -408,12 +408,12 @@ fetchUrl("http://192.168.0.14:8080");
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527014606.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527014606.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527014500.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527014500.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527015500.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527015500.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220527020654.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220527020654.png)
 
 #hacking

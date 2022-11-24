@@ -29,9 +29,9 @@ To
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516201115.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516201115.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516201149.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516201149.png)
 
 ### Exploiting XXE to perform SSRF attacks
 ```bash
@@ -131,19 +131,19 @@ To
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203009.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203009.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203041.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203041.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203125.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203125.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203147.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203147.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203210.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203210.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203231.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203231.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516203257.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516203257.png)
 
 ### Blind XXE with out-of-band interaction
 ```bash
@@ -178,11 +178,11 @@ Click "Poll now"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516204734.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516204734.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516204759.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516204759.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516204823.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516204823.png)
 
 ### Blind XXE with out-of-band interaction via XML parameter entities
 ```bash
@@ -215,11 +215,11 @@ Click "Poll now"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516213449.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516213449.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516213521.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516213521.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516213536.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516213536.png)
 
 ### Exploiting blind XXE to exfiltrate data using a malicious external DTD //
 ```bash
@@ -266,13 +266,13 @@ Find the outlier IP with the hostname following the "x="
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516215120.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516215120.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516215428.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516215428.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516222034.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516222034.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516215502.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516215502.png)
 
 ### Exploiting blind XXE to retrieve data via error messages
 ```bash
@@ -316,11 +316,11 @@ To
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516220411.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516220411.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516220538.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516220538.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516221619.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516221619.png)
 
 ### Exploiting XXE to retrieve data by repurposing a local DTD
 ```bash
@@ -411,13 +411,13 @@ To
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516223507.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516223507.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516223526.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516223526.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516224532.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516224532.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516224558.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516224558.png)
 
 ### Exploiting XInclude to retrieve files
 ```bash
@@ -449,9 +449,9 @@ productId=
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516230208.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516230208.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516230240.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516230240.png)
 
 ### Exploiting XXE via image file upload
 ```bash
@@ -503,12 +503,12 @@ a42b13dbcd8b
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516232542.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516232542.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516232604.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516232604.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516232652.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516232652.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516232710.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516232710.png)
 
 #hacking
