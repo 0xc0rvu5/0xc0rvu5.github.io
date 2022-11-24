@@ -2,7 +2,7 @@
 ## SMB
 ## CVE
 ## Metasploit
-```bash
+``````
 
 ➜  sudo vi /etc/hosts
 Add:
@@ -133,13 +133,13 @@ C:\Users\haris\Desktop\user.txt
 
 C:\Windows\system32>type C:\Users\haris\Desktop\user.txt
 
-66142c9928d25ab151e83f3d2e26b20b
+user_flag
 
 C:\Windows\system32>type C:\Users\Administrator\Desktop\root.txt
 
-8674c60987044062ac0ac6996dc6e2a0
+root_flag
 
-```
+``````
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624235939.png)
 
@@ -158,8 +158,6 @@ C:\Windows\system32>type C:\Users\Administrator\Desktop\root.txt
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625000703.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625000754.png)
-
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625000900.png)
 
 ![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625000933.png)
 
