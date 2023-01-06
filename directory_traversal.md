@@ -19,10 +19,10 @@ GET /image?filename=../../../../etc/passwd HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502215316.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502215543.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502215820.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502215946.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502215316.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502215543.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502215820.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502215946.png)
 
 ### File path traversal, traversal sequences blocked with absolute path bypass
 ```bash

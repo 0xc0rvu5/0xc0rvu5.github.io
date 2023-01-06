@@ -47,13 +47,13 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514212713.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514212713.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514212825.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514212825.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514213602.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514213602.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514213639.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514213639.png)
 
 ### Basic SSRF against another back-end system
 ```bash
@@ -127,22 +127,22 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514230225.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514230225.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514230443.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514230443.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514230334.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514230334.png)
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514225825.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514225825.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514225806.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514225806.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514231108.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514231108.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514231201.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514231201.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514231230.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514231230.png)
 
 ### SSRF with blacklist-based input filter
 ```bash
@@ -233,19 +233,19 @@ HTTP/1.1 302 Found
 ```
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515001944.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515001944.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002152.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002152.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002215.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002215.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002247.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002247.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002322.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002322.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002438.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002438.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515002514.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515002514.png)
 
 ### SSRF with whitelist-based input filter
 ```bash
@@ -355,23 +355,23 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515211806.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515211806.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212010.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212010.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515211840.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515211840.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212034.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212034.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212132.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212132.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212152.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212152.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212327.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212327.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212411.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212411.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212448.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212448.png)
 
 ### SSRF with filter bypass via open redirection vulnerability
 ```bash
@@ -460,19 +460,19 @@ HTTP/1.1 200 OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515215321.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515215321.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515215356.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515215356.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515215433.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515215433.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515215517.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515215517.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515215552.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515215552.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212610.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212610.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220515212638.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220515212638.png)
 
 ### Blind SSRF with out-of-band detection
 ```bash
@@ -505,13 +505,13 @@ Click "Poll now"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516013314.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516013314.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516013400.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516013400.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516013426.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516013426.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516013446.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516013446.png)
 
 ### Blind SSRF with Shellshock exploitation
 ```bash
@@ -563,12 +563,12 @@ https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516021014.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516021014.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516021510.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516021510.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516021543.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516021543.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220516021833.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220516021833.png)
 
 #hacking

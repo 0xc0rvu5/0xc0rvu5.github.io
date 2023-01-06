@@ -25,9 +25,9 @@ Change the URL-encoded message:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529190422.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529190422.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529190627.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529190627.png)
 
 ### Manipulating the WebSocket handshake to exploit vulnerabilities
 ```bash
@@ -70,9 +70,9 @@ Like so:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529202458.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529202458.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529200830.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529200830.png)
 
 ### Cross-site WebSocket hijacking
 ```bash
@@ -123,8 +123,8 @@ Request to Collaborator
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529204148.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529204148.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220529205840.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220529205840.png)
 
 #hacking

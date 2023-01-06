@@ -50,7 +50,7 @@ HTTP/1.1 403 Forbidden
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606224149.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606224149.png)
 
 ### HTTP request smuggling, basic TE.CL vulnerability
 ```bash
@@ -106,7 +106,7 @@ HTTP/1.1 403 Forbidden
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606231055.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606231055.png)
 
 ### HTTP request smuggling, obfuscating the TE header
 ```bash
@@ -163,7 +163,7 @@ HTTP/1.1 403 Forbidden
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606233413.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606233413.png)
 
 ### HTTP request smuggling, confirming a CL.TE vulnerability via differential responses
 ```bash
@@ -216,7 +216,7 @@ HTTP/1.1 404 Not Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607000811.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607000811.png)
 
 ### HTTP request smuggling, confirming a TE.CL vulnerability via differential responses
 ```bash
@@ -271,7 +271,7 @@ HTTP/1.1 404 Not Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607002801.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607002801.png)
 
 ### Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability
 ```bash
@@ -357,13 +357,13 @@ HTTP/1.1 200 OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607010847.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607010847.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607010011.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607010011.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607010503.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607010503.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607010221.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607010221.png)
 
 ### Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability
 ```bash
@@ -460,11 +460,11 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607190455.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607190455.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607191345.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607191345.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607192115.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607192115.png)
 
 ### Exploiting HTTP request smuggling to reveal front-end request rewriting
 ```bash
@@ -570,11 +570,11 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607203805.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607203805.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607204034.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607204034.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220607203941.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220607203941.png)
 
 ### Exploiting HTTP request smuggling to capture other users' requests
 ```bash
@@ -670,19 +670,19 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608003307.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608003307.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608003338.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608003338.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608004708.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608004708.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608004731.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608004731.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608004811.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608004811.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608004941.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608004941.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608005232.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608005232.png)
 
 ### Exploiting HTTP request smuggling to deliver reflected XSS
 ```bash
@@ -727,9 +727,9 @@ x=1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608011400.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608011400.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608012719.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608012719.png)
 
 ### Exploiting HTTP request smuggling to perform web cache poisoning
 ```bash
@@ -813,13 +813,13 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608015943.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608015943.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608020013.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608020013.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608015511.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608015511.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608015848.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608015848.png)
 
 ### Exploiting HTTP request smuggling to perform web cache deception
 ```bash
@@ -877,9 +877,9 @@ Your API Key is: Z5jxoIEqnetOPwMuaUl4y3hN8PGAY6Mg
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608021822.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608021822.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608021836.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608021836.png)
 
 ### H2.CL request smuggling
 ```bash
@@ -1009,15 +1009,15 @@ Send multiple times
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608232933.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608232933.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608233025.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608233025.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608232656.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608232656.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220608232719.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220608232719.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609025101.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609025101.png)
 
 ### Response queue poisoning via H2.TE request smuggling
 ```bash
@@ -1090,11 +1090,11 @@ Delete username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609004814.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609004814.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609004438.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609004438.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609005106.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609005106.png)
 
 ### HTTP/2 request smuggling via CRLF injection
 ```bash
@@ -1174,15 +1174,15 @@ Refresh the page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609033305.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609033305.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609033342.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609033342.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609033631.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609033631.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609034505.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609034505.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609032803.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609032803.png)
 
 ### HTTP/2 request splitting via CRLF injection
 ```bash
@@ -1269,19 +1269,19 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220609235923.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220609235923.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000107.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000150.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000150.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000421.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000421.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000519.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000519.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000620.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000620.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610000642.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610000642.png)
 
 ### Bypassing access controls via HTTP/2 request tunnelling
 ```bash
@@ -1432,29 +1432,29 @@ HTTP/2 500 Internal Server Error
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610001924.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610001924.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002055.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002055.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002200.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002200.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002307.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002307.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002428.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002428.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002516.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002516.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610002919.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610002919.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610003112.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610003112.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610003322.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610003322.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610004003.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610004003.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610004100.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610004100.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610004224.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610004224.png)
 
 ### Web cache poisoning via HTTP/2 request tunnelling
 ```bash
@@ -1589,26 +1589,26 @@ Location: /resources/?<script>alert(1)</script>
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610010416.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610010416.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610010537.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610010537.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610010643.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610010643.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011003.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011003.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011253.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011253.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011404.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011404.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011649.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011649.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011855.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011855.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610011951.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610011951.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610012022.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610012022.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220610012159.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220610012159.png)
 
 #hacking

@@ -17,8 +17,8 @@ productId=1&storeId=2|cat+/etc/passwd
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502225806.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220502230020.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502225806.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220502230020.png)
 
 ### Blind OS command injection with time delays
 ```bash
@@ -58,8 +58,8 @@ csrf=qa3MofHur2Aeq5Jk4Rjq103VLxDPRvGc&name=name&email=email%40email.com||ping+-c
 ```
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220503230007.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220503230050.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220503230007.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220503230050.png)
 
 ### Blind OS command injection with output redirection
 ```bash
@@ -160,7 +160,7 @@ The DNS queries should be visible
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504000148.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504000148.png)
 
 ### Blind OS command injection with out-of-band data exfiltration
 ```bash
@@ -212,6 +212,6 @@ The subdomain of the domain name will be the output of the "whoami" command
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504154759.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504154759.png)
 
 #hacking

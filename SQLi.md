@@ -166,11 +166,11 @@ Cookie: TrackingId=d4nVvG4ZIAf8sHoR' AND (SELECT SUBSTRING(password,20,1) FROM u
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220501223926.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220501223926.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220501223844.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220501223844.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220501230038.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220501230038.png)
 
 ### Blind SQL injection with conditional errors
 ```sql
@@ -348,6 +348,6 @@ The subdomain of your original domain should be the query response in this case 
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220503222915.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220503222915.png)
 
 #hacking

@@ -80,16 +80,16 @@ root_flag
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621060317.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621060317.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621060251.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621060251.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621060446.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621060446.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621060658.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621060658.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220621062040.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220621062040.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625004424.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220625004424.png)
 
 #hacking 

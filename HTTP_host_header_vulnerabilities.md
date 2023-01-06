@@ -60,11 +60,11 @@ X-Cache: hit
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605221119.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605221119.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605221537.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605221537.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605221454.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605221454.png)
 
 ### Host header authentication bypass
 ```bash
@@ -138,15 +138,15 @@ GET /admin/delete?username=carlos HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605223122.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605223122.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605222430.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605222430.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605223229.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605223229.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605223314.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605223314.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220605223041.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220605223041.png)
 
 ### Routing-based SSRF
 ```bash
@@ -217,19 +217,19 @@ GET /admin/delete?csrf=LHoEesCM8Rns3JNsSL5xLCNOPoQpbsGj&username=carlos HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606002006.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606002006.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606002022.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606002022.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606003111.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606003111.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606003240.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606003240.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606003323.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606003323.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606003458.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606003458.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606003929.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606003929.png)
 
 ### SSRF via flawed request parsing
 ```bash
@@ -349,12 +349,12 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606004847.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606004847.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606015956.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606015956.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606020025.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606020025.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220606020051.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220606020051.png)
 
 #hacking

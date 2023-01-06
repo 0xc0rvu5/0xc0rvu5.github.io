@@ -59,13 +59,13 @@ Take this session cookie and place it as your own "Cookie: session="
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517191525.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517191525.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517191129.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517191129.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517191443.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517191443.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517191410.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517191410.png)
 
 ### Exploiting cross-site scripting to capture passwords
 ```bash
@@ -105,9 +105,9 @@ Choose the HTTP response "Type" -> Request to Collaborator -> username:password
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517192749.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517192749.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220517192701.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220517192701.png)
 
 ### Exploiting XSS to perform CSRF
 ```bash
@@ -155,7 +155,7 @@ email@email.com
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518001258.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518001258.png)
 
 ### Stored XSS into HTML context with nothing encoded
 ```bash
@@ -269,19 +269,19 @@ Click "Deliver exploit to victim"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518205138.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518205138.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518205212.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518205212.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518205239.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518205239.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518205307.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518205307.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518205702.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518205702.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518212459.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518212459.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518212523.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518212523.png)
 
 ### Reflected XSS into HTML context with all tags blocked except custom ones
 ```bash
@@ -339,9 +339,9 @@ https://ac8e1f411e3cb19dc091085b009c00ff.web-security-academy.net/?search=<svg><
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518232203.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518232203.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518232222.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518232222.png)
 
 ### Reflected XSS with some SVG markup allowed
 ```bash
@@ -417,17 +417,17 @@ Craft a payload:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519000859.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519000859.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518234811.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518234811.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220518234758.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220518234758.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519000522.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519000522.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519000541.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519000541.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519002235.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519002235.png)
 
 ### Reflected XSS into attribute with angle brackets HTML-encoded
 ```bash
@@ -452,7 +452,7 @@ Input into search:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519005157.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519005157.png)
 
 ### Stored XSS into anchor href attribute with double quotes HTML-encoded
 ```bash
@@ -506,9 +506,9 @@ Click "Follow redirection" // Does not seem to be necessary, but does not hurt. 
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519010733.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519010733.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519012434.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519012434.png)
 
 ### Reflected XSS in canonical link tag
 ```bash
@@ -591,13 +591,13 @@ GET /?search=</script><script>alert(1)</script> HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519180603.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519180603.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519180704.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519180704.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519180857.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519180857.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519180919.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519180919.png)
 
 ### Reflected XSS into a JavaScript string with angle brackets HTML encoded
 ```bash
@@ -632,11 +632,11 @@ GET /?search='-alert(1)-' HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519212445.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519212445.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519212856.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519212856.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519212912.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519212912.png)
 
 #### Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped
 ```bash
@@ -678,9 +678,9 @@ alert(1)//';
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519221102.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519221102.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519221217.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519221217.png)
 
 ### Reflected XSS in a JavaScript URL with some characters blocked
 ```bash
@@ -754,13 +754,13 @@ Click on the last occurrence of username "name"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519223557.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519223557.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519223652.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519223652.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519224327.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519224327.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220519224403.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220519224403.png)
 
 #### Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
 ```bash
@@ -809,11 +809,11 @@ Due to the sink being within the "img src" tag use a double-quote and greater th
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520222120.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520222120.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520222246.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520222246.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520222325.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520222325.png)
 
 ### Lab: DOM XSS in `document.write` sink using source `location.search` inside a select element
 ```bash
@@ -859,9 +859,9 @@ https://ac681f951ea5b974c0ac3796006b000d.web-security-academy.net/product?produc
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520232116.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520232116.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520232923.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520232923.png)
 
 ### DOM XSS in innerHTML sink using source location.search
 ```bash
@@ -893,11 +893,11 @@ Enter into search: "<img src=1 onerror=alert(1)>"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520233654.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520233654.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520233729.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520233729.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520233752.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520233752.png)
 
 ### DOM XSS in jQuery anchor href attribute sink using location.search source
 ```bash
@@ -947,7 +947,7 @@ https://ac791fad1e44e346c1586cda00a500bb.web-security-academy.net/feedback?retur
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220520235846.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220520235846.png)
 
 ### DOM XSS in jQuery selector sink using a hashchange event
 ```bash
@@ -996,7 +996,7 @@ Click "Deliver exploit to victim"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521003051.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521003051.png)
 
 ### DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
 ```bash
@@ -1019,9 +1019,9 @@ Type into search:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521210658.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521210658.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521210905.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521210905.png)
 
 ### Reflected DOM XSS
 ```bash
@@ -1089,17 +1089,17 @@ Response:
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521213123.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521213123.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521213047.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521213047.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521214300.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521214300.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521214325.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521214325.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521214351.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521214351.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521214210.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521214210.png)
 
 ### Stored DOM XSS
 ```bash
@@ -1136,7 +1136,7 @@ To
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220521220430.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220521220430.png)
 
 ### Reflected XSS protected by very strict CSP, with dangling markup attack
 ```bash
@@ -1225,13 +1225,13 @@ Click "Deliver exploit to victim"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522004152.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522004152.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522002838.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522002838.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522005034.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522005034.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522005118.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522005118.png)
 
 ### Reflected XSS protected by CSP, with CSP bypass
 ```bash
@@ -1276,11 +1276,11 @@ https://ac911f2f1e2fcd15c09e7ed800cf00ce.web-security-academy.net/?search=%3Cscr
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522010719.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522010719.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522010626.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522010626.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220522011405.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220522011405.png)
 
 ### Reflected XSS with AngularJS sandbox escape without strings
 ```bash

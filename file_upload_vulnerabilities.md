@@ -42,8 +42,8 @@ https://ac731f5f1f1a8eb0c07226a700f5005f.web-security-academy.net/files/avatars/
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504184236.png)
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504184557.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504184236.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504184557.png)
 
 ### Web shell upload via Content-Type restriction bypass
 - only accepts .jpeg or .png files unless changed in Burp repeater
@@ -94,9 +94,9 @@ https://ac731f5f1f1a8eb0c07226a700f5005f.web-security-academy.net/files/avatars/
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504192559.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504192559.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504193134.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504193134.png)
 ### Web shell upload via path traversal
 ```bash
 
@@ -136,7 +136,7 @@ https://ac6b1fd71e2a399bc04ca9d600d70086.web-security-academy.net/files/file.php
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220504200619.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220504200619.png)
 
 ### Web shell upload via extension blacklist bypass
 - Insufficient black-listing of file extensions
@@ -178,11 +178,11 @@ GET /files/avatars/file.php5 HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505175454.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505175454.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505175626.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505175626.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505175650.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505175650.png)
 
 ### Web shell upload via obfuscated file extension
 ```bash
@@ -234,11 +234,11 @@ https://ac921f561f0a1ee0c0d88304003500e0.web-security-academy.net/files/avatars/
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505182405.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505182405.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505183119.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505183119.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505183142.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505183142.png)
 
 ### Remote code execution via polyglot web shell upload
 - "Instead of implicitly trusting the 'Content-Type' specified in a request, more secure servers try to verify that the contents of the file actually match what is expected."
@@ -272,7 +272,7 @@ https://acbe1f961e765f23c0ede19700e200e9.web-security-academy.net/files/avatars/
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220505222347.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220505222347.png)
 
 ### Web shell upload via race condition
 ```bash
@@ -414,12 +414,12 @@ def handleResponse(req, interesting):
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506191546.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506191546.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506191916.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506191916.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506192203.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506192203.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220506192529.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220506192529.png)
 
 #hacking

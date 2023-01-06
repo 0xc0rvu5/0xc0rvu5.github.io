@@ -382,48 +382,48 @@ https://0xdf.gitlab.io/2020/03/21/htb-forest.html
 https://bloodhound.readthedocs.io/en/latest/installation/linux.html
 https://github.com/BloodHoundAD/BloodHound/releases/tag/4.0.3
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629195203.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629195203.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629195252.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629195252.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629195316.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629195316.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629202138.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629202138.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629202941.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629202941.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629202642.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629202642.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629203956.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629203956.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220709154521.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220709154521.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630024029.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630024029.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630024229.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630024229.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630024708.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630024708.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630025001.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630025001.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630175318.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630175318.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220629234100.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220629234100.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630022010.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630022010.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630022413.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630022413.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630022441.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630022441.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630025321.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630025321.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630025622.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630025622.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630023117.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630023117.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630020434.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630020434.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220630025816.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220630025816.png)
 
 #hacking

@@ -521,38 +521,38 @@ root_flag
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707111004.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707111004.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707111449.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707111449.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707113631.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707113631.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707113609.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707113609.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707113324.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707113324.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707071429.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707071429.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707070911.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707070911.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707071933.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707071933.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707072359.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707072359.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707073434.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707073434.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707073509.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707073509.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707074734.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707074734.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707075221.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707075221.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707090701.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707090701.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707095308.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707095308.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707095344.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707095344.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220707100043.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220707100043.png)
 
 #hacking

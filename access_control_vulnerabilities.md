@@ -45,7 +45,7 @@ Delete the username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513200029.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513200029.png)
 
 ### User role controlled by request parameter
 ```bash
@@ -103,9 +103,9 @@ Cookie: session=FXhMokS0myZHILr6znWh5a3MQeVlk6EO; Admin=true
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513200709.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513200709.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513200638.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513200638.png)
 
 ### User role can be modified in user profile
 ```bash
@@ -151,9 +151,9 @@ ac611f9c1f58d205c19b3a7a00820069.web-security-academy.net/admin
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202751.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513202751.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513202826.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513202826.png)
 
 ### URL-based access control can be circumvented
 ```bash
@@ -217,13 +217,13 @@ After sending this request the username "carlos" should be deleted
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513205624.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513205624.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513205652.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513205652.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513210446.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513210446.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513210215.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513210215.png)
 
 ### Method-based access control can be circumvented
 ```bash
@@ -274,19 +274,19 @@ GET /admin-roles?username=wiener&action=upgrade HTTP/1.1
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001023.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001023.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001101.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001101.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001145.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001145.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001213.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001213.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001248.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001248.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001323.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001323.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514001352.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514001352.png)
 
 ### User ID controlled by request parameter
 ```bash
@@ -323,9 +323,9 @@ HTTP/1.1 200 OK
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514002024.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514002024.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514002057.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514002057.png)
 
 ### User ID controlled by request parameter, with unpredictable user IDs
 ```bash
@@ -372,13 +372,13 @@ GET /my-account?id=a49108c2-b1c8-4126-95a5-67df0a5c5971 HTTP/1.1
 ```
 
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003253.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514003253.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003347.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514003347.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003641.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514003641.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514003530.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514003530.png)
 
 ### User ID controlled by request parameter with data leakage in redirect
 ```bash
@@ -413,7 +413,7 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514004843.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514004843.png)
 
 ### User ID controlled by request parameter with password disclosure
 ```bash
@@ -456,9 +456,9 @@ Delete the username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514005259.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514005259.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514010344.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514010344.png)
 
 ### Insecure direct object references
 ```bash
@@ -490,9 +490,9 @@ The response contains the password
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514200914.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514200914.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514200945.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514200945.png)
 
 ### Multi-step process with no access control on one step
 ```bash
@@ -545,15 +545,15 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202654.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514202654.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202721.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514202721.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202810.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514202810.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202838.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514202838.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514202909.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514202909.png)
 
 ### Referer-based access control
 ```bash
@@ -594,14 +594,14 @@ HTTP/1.1 302 Found
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203646.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514203646.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203741.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514203741.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203820.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514203820.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203852.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514203852.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220514203928.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220514203928.png)
 
 #hacking

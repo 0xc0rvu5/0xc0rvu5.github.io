@@ -193,24 +193,24 @@ Welcome HTB{flag}<br>
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213639.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624213639.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213902.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624213902.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213402.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624213402.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624213333.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624213333.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624214421.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624214421.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624214947.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624214947.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624215301.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624215301.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624215527.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624215527.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624215847.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624215847.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220624220140.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220624220140.png)
 
 #hacking

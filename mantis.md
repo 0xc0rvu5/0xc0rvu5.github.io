@@ -471,50 +471,50 @@ https://www.trustedsec.com/blog/ms14-068-full-compromise-step-step/
 
 https://github.com/mubix/akb/blob/master/Impacket/MS14-068.md
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706110613.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706110613.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706114400.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706114400.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706112805.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706112805.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706112855.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706112855.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706113918.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706113918.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706113949.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706113949.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706102401.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706102401.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706114006.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706114006.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706115053.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706115053.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706115026.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706115026.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706114917.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706114917.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706114932.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706114932.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706114956.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706114956.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133145.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133145.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133215.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133215.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133515.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133515.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133713.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133713.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133819.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133819.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706133830.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706133830.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706135958.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706135958.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706140021.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706140021.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706145054.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706145054.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220706144943.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220706144943.png)
 
 #hacking

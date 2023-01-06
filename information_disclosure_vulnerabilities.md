@@ -25,7 +25,7 @@ Verbose error message revealing vulnerable server
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512231618.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512231618.png)
 
 ### Information disclosure on debug page
 ```bash
@@ -42,11 +42,11 @@ After searching this drove of information you find SECRET_KEY
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512232450.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512232450.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512232532.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512232532.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512232551.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512232551.png)
 
 ### Source code disclosure via backup files
 ```bash
@@ -81,11 +81,11 @@ c66fsa1ki4wky2d8ph19j33slvfn7ilk
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512233808.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512233808.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512234002.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512234002.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512234043.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512234043.png)
 
 ### Authentication bypass via information disclosure
 ```bash
@@ -129,11 +129,11 @@ Refresh Home page
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512235722.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512235722.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220512235655.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220512235655.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513000206.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513000206.png)
 
 ### Information disclosure in version control history
 ```bash
@@ -160,10 +160,10 @@ Delete the username "carlos"
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513004001.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513004001.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513004032.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513004032.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220513004107.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220513004107.png)
 
 #hacking

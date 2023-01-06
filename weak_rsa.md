@@ -24,6 +24,6 @@ HTB{flag}
 
 ``````
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220625005045.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220625005045.png)
 
 #hacking

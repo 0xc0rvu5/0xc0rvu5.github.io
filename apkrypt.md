@@ -101,18 +101,18 @@ jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-key-5.keysto
 
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627044240.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627044240.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627045629.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627045629.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627044457.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627044457.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627044622.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627044622.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627044701.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627044701.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627044832.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627044832.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20220627043336.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20220627043336.png)
 
 #hacking
