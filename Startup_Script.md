@@ -253,7 +253,7 @@ Next up would be the installation of Brave and VSCode.
 
 These are relatively straight-forward. I personally enjoy using Brave after using it explicitly when following Michael Taggart's PWST (Practical Web Application Security and Testing) course  on the TCM Security platform. If you are into that kind of stuff I highly recommend the course, 10/10, from someone with a general good understanding of web application testing after running through the 200 something modules on Portswigger.
 
-VSCode is a wonderful tool if you are into coding/programming. It is my prefferred tool of choice due the high level of granularity or the level of detail and control it provides over different aspects of the development process.
+VSCode is a wonderful tool if you are into coding/programming. It is my preferred tool of choice due the high level of granularity or the level of detail and control it provides over different aspects of the development process.
 
 The script adds the following files post installation:
 ```
@@ -273,7 +273,7 @@ Alongside the repositories:
 
 The packages will be included whenever your system is updated. If an update or security patch is passed along within the repository you will have it immediately versus, say, directly installed the `code` binary. I included the locations of where the files are located in the `log` file in case the full removal of either of the packages are required. If so, I recommend deleting each file as there will be no purpose to have the repository pulling updates if there is no package(s) to update.
 
-The last set of packages installed within this script are contained within the `additional_packages` function. These pacakges include:
+The last set of packages installed within this script are contained within the `additional_packages` function. These packages include:
 ```
 libpam-tmpdir apt-listchanges debsums apt-show-versions sysstat auditd chkrootkit rkhunter unhide fail2ban unattended-upgrades acct arpwatch shellcheck vlc xpad tor sqlite3 sqlitebrowser python3-pip python3-virtualenv iptables-persistent
 ```
@@ -283,7 +283,7 @@ If you want a description of a package and don't want to use your GoogleFu skill
 apt show libpam-tmpdir
 ```
 
-Though the list is lengthly compared to the other two let's break them down:
+Though the list is lengthy compared to the other two let's break them down:
 -  libpam-tmpdir
 	- automatic per-user temporary directories. Many programs use $TMPDIR for storing temporary files. Not all of them are good at securing the permissions of those files. libpam-tmpdir sets $TMPDIR and $TMP for PAM sessions and sets the permissions quite tight.  This helps system security by having an extra layer of security, making such symlink attacks and other /tmp based attacks harder or impossible.
 - apt-listchanges
