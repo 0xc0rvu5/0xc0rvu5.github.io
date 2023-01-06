@@ -1,5 +1,8 @@
 # Practical Malware Analysis & Triage (PMAT)
 
+##### If this stuff interests you be sure to check out
+- [[https://github.com/0xc0rvu5/PMAT-Final/blob/main/sneakyPutty.pdf]]
+
 # Methodology
 
 ```bash

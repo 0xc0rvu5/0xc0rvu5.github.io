@@ -1,5 +1,5 @@
 layout: page
-theme: jekyll-theme-hacker
+theme: pages-themes/modernist@v0.2.0
 permalink: /access_control_vulnerabilities.md
 permalink: /authentication_vulnerabilities.md
 permalink: /business_logic_vulnerabilities.md
