@@ -163,6 +163,7 @@
 				- Find:
 					- `MainActivity.smali`
 				- Change:
+
 ```smali
 # direct methods
 .method public constructor <init>()V
@@ -172,7 +173,9 @@
 
     return-void
 ```
+
 - To
+
 ```smali
 # direct methods
 .method public constructor <init>()V
@@ -185,6 +188,7 @@ invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
     return-void
 ```
+
 - Recompile with `apktool`
 	- `apktool b injuredAndroid_pulled -o injured_patched.apk `
 	- If errors occur:
