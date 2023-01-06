@@ -641,6 +641,7 @@ If `fish` is selected"
 - oh-my-fish will be installed.
 - The user will have their current shell automatically changed to `fish`.
 For `fish` take heed of the following output which will be displayed after installation:
+
 ```
   ~~ Installing oh-my-fish ~~
   
