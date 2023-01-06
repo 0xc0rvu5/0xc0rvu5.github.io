@@ -253,7 +253,7 @@ Next up would be the installation of Brave and VSCode.
 
 These are relatively straight-forward. I personally enjoy using Brave after using it explicitly when following Michael Taggart's PWST (Practical Web Application Security and Testing) course  on the TCM Security platform. If you are into that kind of stuff I highly recommend the course, 10/10, from someone with a general good understanding of web application testing after running through the 200 something modules on Portswigger.
 
-VSCode is a wonderful tool if you are into coding/programming. It is my prefferred tool fo choice due the high level of granularity or the level of detail and control it provides over different aspects of the development process.
+VSCode is a wonderful tool if you are into coding/programming. It is my prefferred tool of choice due the high level of granularity or the level of detail and control it provides over different aspects of the development process.
 
 The script adds the following files post installation:
 ```
@@ -349,11 +349,12 @@ Unattended-Upgrade::Remove-Unused-Dependencies "true";
 Unattended-Upgrade::AutoFixInterruptedDpkg "true";
 ```
 
-File #2 will be located in the `configs` directory:
+File #2 will be located in the `/configs` directory:
 - `/config/02periodic`
 - This file will be copied to:
 	- `/etc/apt/apt.conf.d/02periodic`
 - The following content will be inside the `/etc/apt/apt.conf.d/02periodic` file:
+
 ```
 // Control parameters for cron jobs by /etc/cron.daily/apt-compat //
 
