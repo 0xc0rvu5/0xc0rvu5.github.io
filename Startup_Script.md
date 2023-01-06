@@ -140,7 +140,7 @@ Log file at:
 
 # 1.sh
 
-First off will be updating the system. Generic Debian based system updates can be accomplished with:
+First off we'll be updating the system. Generic Debian based system updates can be accomplished with:
 `sudo apt autoclean -y; sudo apt update -y; sudo apt upgrade -y; sudo apt autoremove -y;`
 
 This will update the system and ensure all packages are up-to-date. Depending on whether you installed a fresh ISO image alongside the amount of resources you have allotted to your machine will differentiate the time this step will take. Generally, with more that 4GB of ram and enough CPU core processors this will take a minute or two tops. If you have 4GB or less expect it to take quite some time.
@@ -807,7 +807,7 @@ Here is a hint 😉:
 Terminator Configurations
 
 
-Similar to the previous directory installation of `~/.local/bin` if the `~/.config/terminator` directory is not created then it will be created based off of a same criteria:
+Similar to the previous directory installation of `~/.local/bin` if the `~/.config/terminator` directory is not currently present on the file-system then it will be created based off of the same criteria:
 - The user is `root` and does not have a `~/.config/terminator` directory.
 - The user is in the `/etc/passwd` file, is located within the `/home` directory and doesn't have a `~/.config/terminator` directory.
 
