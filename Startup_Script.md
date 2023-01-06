@@ -247,7 +247,7 @@ This time the output will display 5 lines above `-A` and 5 lines below `-B` the 
 
 In the below photo we can see that there are roughly 1921 packages in a fresh Ubuntu 22.04 install. Furthermore, we see the smallest packages and the largest packages on the system. We also see where the previously mentions `unnecessary packages` fit on this spectrum. I wanted to illistrate that the packages really do not hog too much room on your filesystem, but nonetheless, I included a function that is presented on the main options menu which allows you to uninstall these packages with ease. If all else failed, you can reference the log file which has the packages listed together and a simple `sudo apt remove --purge` with the list of the `unnecessary packages` following would remove them.
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105123021.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105123021.png)
 
 Next up would be the installation of Brave and VSCode. 
 
@@ -387,7 +387,7 @@ If for some reason the previous file mentioned is excluded then `unattended-upgr
 - `sudo dpkg-reconfigure -plow unattended-upgrades`
 
 This will output:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105160450.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105160450.png)
 
 Within the script I included the non-interactive way of accomplishing this:
 ```
@@ -464,7 +464,7 @@ Here the command is step-by-step in visual form:
 - Take note that since i have `ip` as an alias and I am actively in a `fish` shell in the screenshot I use the `command` function which in turn cancels out the alias.
 - Alternatively, if you are using `zsh` instead of command you can use a `\`.
 	- `\ip -4 -o a`
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105164815.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105164815.png)
 
 Now keep in mind this will grab all the current interfaces on your system and take the last interface. I did this to avoid the loop-back interface i.e. `lo`. If you have a vpn on it will take the VPN interface `tun0` or whatever it may be so keep that in mind.
 Alternatively, you can use the following code:
@@ -480,7 +480,7 @@ ip -br -c a | grep -i up | awk '{print $1}'
 - `{print $1}` - tells `awk` to print the first field of each input line.
 
 Here the command is step-by-step in visual form:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105165526.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105165526.png)
 
 Shout-out to Matt Kiely the creator of PMAT (Practical Malware Analysis & Triage) for TCM Security. If it wasn't for following him on one of his videos (outside of the PMAT) then I wouldn't have this lovely highlighted `ip` syntax to use.
 
@@ -563,7 +563,7 @@ A copy of the `fail2ban` jail configuration file occurs within the script:
 ```
 
 If this isn't done you may have issues with `fail2ban` actually starting. After it is complete and the service is enabled expect a basic setup with no other than a `sshd` jail. Note, that if you use `ssh` on a separate port you will need to configure the configuration files accordingly. I may cover that another time. Here is an example of an active `fail2ban` service:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105173122.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105173122.png)
 
 
 Rkhunter and Unhide
@@ -761,7 +761,7 @@ tldr --update
 ```
 
 After this update is complete feel free to type in `tldr` followed by any command/binary. This is one of my favorite tools! Check it out in action:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105184445.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105184445.png)
 
 `tldr` is extremely useful for quick command references!
 
@@ -786,18 +786,18 @@ set -x PATH $PATH $HOME/.cargo/bin
 
 This will allow for the `~/.cargo/bin` binaries to be accessible to the current shell whether it be bash/zsh/fish.
 Take note of the user binaries being available to root. This allows for the user to use the `rust` binaries without `sudo`, root to have access to the binaries and only a single install of `rust`. Here is what the `root` `~/.config/fish/config.fish` file will look like:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105191157.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105191157.png)
 
 Additionally, you can manually add them with `fish_add_path` like so:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105191501.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105191501.png)
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105192033.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105192033.png)
 
 This is a super convenient way to add paths! Keep in mind that if your paths are located in `~/.config/fish/config.fish` then the paths will be accessible in the shell, but they will not be visible when you run `echo $fish_user_paths`.
 
 Test out `tldr` to determine what `nl` is accomplishing in the previous screenshot.
 Here is a hint 😉:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105192217.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105192217.png)
 - **First line of `tldr` output**
 
 
@@ -821,7 +821,7 @@ The only differences between the two are the size of the terminal and the locati
 Go to:
 - Tweaks -> Windows -> (Toggle) Center New Windows
 It will look something like this:
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105193811.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105193811.png)
 
 
 Aliases
@@ -831,7 +831,7 @@ To finish things off right all alias files will be dynamically updated. I incorp
 echo $USER
 ```
 
-![image](https://m0d1cumc0rvu5.github.io/docs/assets/images/20230105194808.png)
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230105194808.png)
 
 Checkout the GitHub repository for some example output of the aliases!
 
