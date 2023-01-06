@@ -58,7 +58,7 @@
 
 [Pinned](/pinned.md)
 
-# Portswigger
+## Portswigger
 
 
 [Access Control Vulnerabilities](/access_control_vulnerabilities.md)
@@ -106,6 +106,8 @@
 [XSS](/XSS.md)
 
 [XXE Injection](/XXE_injection.md)
+
+## Bash Scripts
 
 
 [Startup_Script](/Startup_Script.md)
