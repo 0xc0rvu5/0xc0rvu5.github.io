@@ -2,6 +2,11 @@
 ### For a downloadable pdf version of write-ups visit:
 [My Website](https://bmwalsh.net/)
 
+## Bash Scripts
+
+
+[Startup_Script](/Startup_Script.md)
+
 # Hack The Box
 ## Active Directory 101
 
@@ -107,7 +112,4 @@
 
 [XXE Injection](/XXE_injection.md)
 
-## Bash Scripts
 
-
-[Startup_Script](/Startup_Script.md)
