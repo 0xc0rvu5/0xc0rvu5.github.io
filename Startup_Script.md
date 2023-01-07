@@ -141,7 +141,7 @@ Log file at:
 # 1.sh
 
 First off we'll be updating the system. Generic Debian based system updates can be accomplished with:
-`sudo apt autoclean -y; sudo apt update -y; sudo apt upgrade -y; sudo apt autoremove -y;`
+`sudo apt autoclean -y; sudo apt update -y; sudo apt upgrade -y; sudo apt autoremove -y`
 
 This will update the system and ensure all packages are up-to-date. Depending on whether you installed a fresh ISO image alongside the amount of resources you have allotted to your machine will differentiate the time this step will take. Generally, with more that 4GB of ram and enough CPU core processors this will take a minute or two tops. If you have 4GB or less expect it to take quite some time.
 
