@@ -812,7 +812,7 @@ Similar to the previous directory installation of `~/.local/bin` if the `~/.conf
 - The user is in the `/etc/passwd` file, is located within the `/home` directory and doesn't have a `~/.config/terminator` directory.
 
 Once there is a `~/.config/terminator` directory the configuration file located within the `/configs` directory of the GitHub repository will be added.
-The following file structures will be created based off of the `/.configs/terminatorconfigs` file:
+The following file structures will be created based off of the `/configs/terminatorconfigs` file:
 ```
 ~/.config/terminator/config
 ```
