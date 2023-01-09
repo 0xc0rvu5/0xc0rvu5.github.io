@@ -131,7 +131,7 @@ con.close()
 Well what else can we do? Maybe visual aids help better for you! Let's take a graph and try to make some correlations between the amount of `Reps` and `Weight` achieved based off of the `Dates` of the exercise.
 Now you may have noticed there are some occurrences that look like this:
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20230108203830.png)
-In order to overcome this we can make some changes to the database. First let's change the `SetxRep` column to `Rep` and remove the `Rep` section of the content e.g. `3x`.
+In order to overcome this we can make some changes to the database. First let's change the `SetxRep` column to `Reps` and remove the `Set` section of the content e.g. `3x`.
 ```python
 import sqlite3
 
@@ -141,10 +141,10 @@ conn = sqlite3.connect('databases/testing.db')
 # create a cursor
 cursor = conn.cursor()
 
-# add the Sets and Reps columns
+# add the Reps columns
 cursor.execute('ALTER TABLE WORKOUT ADD Reps INTEGER')
 
-# update the Sets and Reps columns with the values of the SetxRep column and chose the content on the `right` side of the 'x'
+# update the Reps columns with the values on the `right` side of the 'x' of the SetxRep column
 cursor.execute('UPDATE WORKOUT SET Reps = SUBSTR(SetxRep, INSTR(SetxRep, "x") + 1)')
 
 # delete the SetxRep column
@@ -255,8 +255,8 @@ Voila! Now we can use this as a visual aid to help us understand methodologies o
 
 To bring it all together, I would like to mention that years ago I had plateaued at around 175 lbs for bench-press. So, if you haven't deduced yet, before 175 pounds, the repetitions never went below 10. Regardless, the cadence that seems to be working for me has been to not increase weight until I can repeat 3 sets of 20 repetitions of whatever weight it may be. Now, if you are a seasoned gym rat you may understand gaining in certain areas can be increased by reducing reps and increasing weight as you can see towards the end of the graph. 
 
-Now these were just two solid reasons why tracking your exercises are useful and how it has helped me tremendously. Bear in mind that just by seeing your week to week or day to day changes I firmly believe that this itself will help create a better habits and reinforce the importance of consistency. 
+Now these were just two solid reasons why tracking your exercises are useful and how it has helped me tremendously. Bear in mind that just by seeing your week to week or day to day changes I firmly believe that this itself will help create better habits and reinforce the importance of consistency. 
 
-Some final thoughts would ponder the question as to what else could you do with this data? Well, what I plan on doing is creating a web-based GUI whether it be in Python or JavaScript I can't say yet. The criteria of the website would include keeping exercises in a database that can easily added too and changed, a way to visualize each workout similar to before, but including all exercises with an easy to use UI, the occasional motivational quote and insightful meal options for the day. Depending on the web server hosting costs I may opt into using JavaScript since I may be getting rusty after my 100-days of JavaScript a little while back. On top of that I might get away with a free hosting site who knows.
+Some final thoughts would be to ponder the question of what else could you do with this data? Well, what I plan on doing is creating a web-based GUI whether it be in Python or JavaScript I can't say yet. The criteria of the website would include keeping exercises in a database that can easily be added to and changed, a way to visualize each workout similar to before, but including all exercises with an easy to use UI, the occasional motivational quote and insightful meal options for the day. Depending on the web server hosting costs I may opt into using JavaScript since I may be getting rusty after my 100-days of JavaScript a little while back. On top of that I might get away with a free hosting site who knows.
 
 Anyways, if you have any feedback or want to share a similar experience please feel free to drop a comment below. If you want to reach out and chat about Python, JavaScript, anything cyber or general health and wellness please do not hesitate! I love chatting with people despite me finding 100 things to do a day to keep me busy 😅. I definitely wont mind replacing my tasks with some good conversation! Until next time!
