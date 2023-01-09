@@ -120,3 +120,8 @@
 [XSS](/XSS.md)
 
 [XXE Injection](/XXE_injection.md)
+
+## Python
+
+
+[Python and Sqlite3](/python_and_sqlite3.md)
