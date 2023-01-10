@@ -21,9 +21,10 @@ cb58a2a3018174cbd8d4e267655625be405440a026711ac38c8d561884cba988  Manager.zip
 
 Next, if `jadx` is not installed, on Kali Linux you can easily install with with the following command:
 - `sudo apt install jadx`
+
 If you want to run it in the background of your current terminal you can use the ampersand following the program you wish to run like so:
 - `jadx-gui &`
-- Just be sure to hit enter following the command and you will be able to use your terminal.
+- Just be sure to hit enter an additional time following the command and you will be able to use your terminal.
 - For a better understanding of static analysis on an android sdk:
 	- [[https://0xc0rvu5.github.io/MAPT]]
 
