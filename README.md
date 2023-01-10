@@ -72,6 +72,8 @@
 
 [Manager](/manager.md)
 
+[Manager Explained](/manager_extra_details.md)
+
 [Pinned](/pinned.md)
 
 ## Portswigger
