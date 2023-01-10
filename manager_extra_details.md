@@ -25,7 +25,7 @@ Next, if `jadx` is not installed, on Kali Linux you can easily install with with
 If you want to run it in the background of your current terminal you can use the ampersand following the program you wish to run like so:
 - `jadx-gui &`
 - Just be sure to hit enter an additional time following the command and you will be able to use your terminal.
-- For a better understanding of static analysis on an android sdk:
+- For a better understanding of static analysis on an android apk:
 	- [[https://0xc0rvu5.github.io/MAPT]]
 
 ```bash
@@ -43,6 +43,7 @@ Below you will see that there is some sort of edit functionality we may be able 
 
 The next step would be to fire up `android studio` which can be downloaded here:
 - [[https://developer.android.com/studio]]
+
 Keep in mind I already had an active emulator setup named `Pinned` so I simply changed the name to `Manager` so I knew where I was working. The setup of `android studio` is out of the scope of this walk-through. Below I will link a general guide on how to set up an emulator:
 - [[https://docs.clover.com/docs/setting-up-an-android-emulator#]]
 
@@ -58,9 +59,10 @@ To
 Manager
 ```
 
-If you properly add the `~/Android/Sdk/tools` to your $PATH variable you will be able to utilize the `emulator` binary anywhere within your terminal and file-system. For some strange reason on WSL2 Kali Linux I was having issues which I could not recreate anywhere else. With that, I move directly to the folder to utilize the binary. If you want more information pertaining to how to accomplish this I highly recommend the `Mobile Application Penetration Testing`  created by Aaron Wilson hosted on TCM Security. Here, he will walk you through step-by-step how to accomplish this on Windows, Mac and Linux.
+If you properly add the `~/Android/Sdk/tools` to your $PATH variable you will be able to utilize the `emulator` binary anywhere within your terminal and file-system. For some strange reason on WSL2 Kali Linux I was having issues which I could not recreate anywhere else. With that, I move directly to the folder to utilize the binary. If you want more information pertaining to how to accomplish this I highly recommend the `Mobile Application Penetration Testing` course created by Aaron Wilson and hosted on the TCM Security website. Here, he will walk you through step-by-step on how to accomplish this on Windows, Mac and Linux.
 
 The `emulator` command will create an emulated instance of the `android studio` phone you previously created (out of scope of this walk-through). 
+
 ```bash
 ➜  cd ~/Android/Sdk/tools 
 ➜  emulator -avd Manager &
@@ -131,15 +133,17 @@ Change user password:
 hey:heyhey
 ```
 
-Now that we have created a user and seem to have come to an end to our investigative work in regards to what we can do with the actual application we will create a `wireshark` filter to investigate the IP address of the phone and application in question.
+Now that we have created a user and seem to have come to an end to our investigative work in regards to what we can do within the actual application we will create a `wireshark` filter to investigate the IP address of the phone and application in question.
 Here is some general information on creating `wireshark` filters:
 - [[https://wiki.wireshark.org/DisplayFilters]]
+
 If you ever tried out TryHackMe you may have completed an Advent of Cyber. Two years ago Alh4zr3d created a awesome breakdown on the matter here:
 - [[https://www.youtube.com/watch?v=LnBT1qubCnc]]
+
 Also, if you want to get a better understanding of `wireshark` in general I recommend:
 - [[https://www.youtube.com/watch?v=rmFX1V49K8U&t=149s]]
 
-Ideally, depending on the amount of packets we would create filters to search. Some hot filters include `http` and `ftp` because they are **unencrypted**. Fortunately for us, we didn't even need to bother with filters beyond the initial `ip.addr` filter since we can see `http` traffic right off the bat. We can see the `/register.php` is **unencrypted**. To further enumerate on this finding we can `right-click`, go to `follow`, and click on `HTTP stream`. If there are clear-text credentials we will find them here.
+Ideally, depending on the amount of packets, if there was an enormous amount, we would create filters to filter out the noise. Some hot filters include `http` and `ftp` because they are **unencrypted**. Fortunately for us, we didn't even need to bother with filters beyond the initial `ip.addr` filter since we can see `http` traffic right off the bat. We can see the `/register.php` is **unencrypted**. To further enumerate on this finding we can `right-click`, go to `follow`, and click on `HTTP stream`. If there are clear-text credentials we will find them here.
 
 ```bash
 Wireshark filter:
@@ -164,7 +168,7 @@ uname:pword over cleartext
 Here you can see the **unencrypted** data. This is a very good example as to why `http` is insecure and should not be used.
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20220627001607.png)
 
-Since we were astute cyber analysts we already made sure we had an instance of `burpsuite` running in the background. Now all we need to do is pull up `burpsuite` and go to the `HTTP History` tab, send the request we wish to test, in this case `manage.php` which pertains to when we changed our previous password and finally see if we can change the password for someone more important like `admin`. Upon attempting to change the password for `admin` it worked! Look at that!! If you hadn't tried already to log into `admin` and noticed a `failed password` error then maybe you weren't aware that there was in fact a `admin` account. We'll cover that next!
+Since we were astute cyber analysts we already made sure we had an instance of `burpsuite` running in the background. Now all we need to do is pull up `burpsuite` and go to the `HTTP History` tab, send the request we wish to test, in this case `manage.php`, which pertains to when we changed our previous password and finally see if we can change the password for someone more important like `admin`. Upon attempting to change the password for `admin` it worked! Look at that!! If you hadn't tried already to log into `admin` and noticed a `failed password` error then maybe you weren't aware that there was in fact an `admin` account. We'll cover that next!
 ```bash
 In burpsuite:
 Go to: HTTP history
@@ -197,7 +201,7 @@ Here we can validate that the password for username `admin` has successfully bee
 
 
 Following this discovery we can revisit the `HTTP History` tab, send the `/login.php` to the `Repeater` tab so we can send additional requests. Now, without leaving the `burpsuite` proxy GUI we can determine if the login functionality for `admin:admin` works since we previously changed the username and password combination to these credentials.
-There you have it! Now we can go back to the client and inform them that their applications is insecure and give them a step-by-step explanation as to how we discovered this vulnerability along with remediation methods to resolve the insecurity!
+There you have it! Now we can go back to the client and inform them that their application is insecure, delicately of course and give them a step-by-step explanation as to how we discovered this vulnerability along with remediation methods to resolve the insecurity!
 
 ```bash
 Change:
@@ -218,4 +222,4 @@ HTTP/1.1 200 OK
 
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20220627002356.png)
 
-That's is for this time! I hope you enjoyed! Feel free to reach out to me at anytime if you want to connect.
+That's is for this time! I hope you enjoyed! Feel free to reach out to me at anytime if you want to connect!
