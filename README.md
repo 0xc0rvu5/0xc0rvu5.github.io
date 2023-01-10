@@ -16,6 +16,8 @@
 
 [Practical Malware Analysis & Triage](/PMAT.md)
 
+[PMAT Final Breakdown](/PMAT_Final_Breakdown.md)
+
 # Hack The Box
 ## Active Directory 101
 
