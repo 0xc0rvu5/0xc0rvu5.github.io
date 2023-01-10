@@ -11,6 +11,7 @@
 Firstly, we will create the relevant directory for organization purposes, move to that directory and copy the attached `zip` file the client gave us. 
 - Using the `.` notation means we want to `mv` (move) `~/Downloads/Manager.zip` to the current working directory we are in. Since we used `cd` to relocate to `htb/Intro_to_Android_Exploitation/Manager` we can also move the relevant files to this location.
 - Following this we will copy the `sha256sum` the client gave us and compare it with the file we have in our current file system to verify the integrity of the file and ensure we are working with the correct file.
+
 ```bash
 ➜  mkdir htb/Intro_to_Android_Exploitation/Manager ; cd htb/Intro_to_Android_Exploitation/Manager ; mv ~/Downloads/Manager.zip .
 ➜  Manager sha256sum Manager.zip | grep cb58a2a3018174cbd8d4e267655625be405440a026711ac38c8d561884cba988
