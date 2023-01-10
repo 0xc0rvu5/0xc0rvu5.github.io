@@ -73,6 +73,7 @@ Once you've reached this point you want to setup `burpsuite` certificates so you
 ## Burpsuite Certificate Setup For Android
 - Keep in mind that this is only achievable on `rooted` phones. If this is not the case I would look into utilizing `frida` and `objection`. You can find more on them here:
 	- [[https://0xc0rvu5.github.io/MAPT]]
+
 ```bash
 - Go to burpsuite
 	- Proxy -> Options -> Proxy Listeners
