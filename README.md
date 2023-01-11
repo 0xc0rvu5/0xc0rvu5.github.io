@@ -1,7 +1,11 @@
 # Write-ups
 ### For a downloadable pdf version of write-ups visit:
+
+
 [My Website](https://bmwalsh.net/)
 
+[My Blog](https://brandonwalsh-blog.herokuapp.com/
+)
 ## Bash Scripts
 
 
