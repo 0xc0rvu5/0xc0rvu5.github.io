@@ -4,8 +4,11 @@
 
 [My Website](https://bmwalsh.net/)
 
-[My Blog](https://brandonwalsh-blog.herokuapp.com/
-)
+### For a more in-depth analysis of certain material visit:
+
+
+[My Blog](https://brandonwalsh-blog.herokuapp.com/)
+
 ## Bash Scripts
 
 
