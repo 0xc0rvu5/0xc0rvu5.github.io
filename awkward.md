@@ -124,11 +124,13 @@ e59ae67897757d1a138a46c1f501ce94321e96aa7ec4445e0e97e94f2ec6c8e1:chris123
 	- On the `/Dashboard` endpoint you can then go to `developer tools`, `Network` and discover the `/staff-details` endpoint this way.
 
 - Seeing we had a password with the name `chris` in it I narrowed the usernames down to those involving the `Christopher Jones`  user.
+
 ```bash
 cat chris
 
 Christopher Jones
 ```
+
 - Run `namemash.py`
 
 ```bash
