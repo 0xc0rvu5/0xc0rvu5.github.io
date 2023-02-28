@@ -217,7 +217,7 @@ for i in (seq 1 63555)
 ```bash
 wfuzz -c -f awkward_api_store-status_wfuzz_out.txt -u 'http://hat-valley.htb/api/store-status?url="http://localhost:FUZZ"' -w ports.txt --hl 0
 ```
-`-c` - This switch tells wfuzz to use a specific cookie value when making requests. 
+`-c` - Colorize the output. 
 `-f` - This switch tells wfuzz to use a specific file containing a list of payloads to use in the fuzzing process. 
 `-u` - This switch tells wfuzz to use a specific URL as the target for the fuzzing process. 
 `-w` - This switch tells wfuzz to use a specific file containing a list of words to use as payloads in the fuzzing process. 
