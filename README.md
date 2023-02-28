@@ -26,6 +26,15 @@
 [PMAT Final Breakdown](/PMAT_Final_Breakdown.md)
 
 # Hack The Box
+# Recently Retired
+
+
+[Ambassador](/ambassador.md)
+
+[Awkward](/awkward.md)
+
+[Photobomb](/photobomb.md)
+
 ## Active Directory 101
 
 
@@ -136,3 +145,4 @@
 
 
 [Python and Sqlite3](/python_and_sqlite3.md)
+
