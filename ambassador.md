@@ -51,7 +51,7 @@ python3 exploit.py
 targets.txt
 ```
 
-![[Pasted image 20230119202035.png]]
+![image](https://0xc0rvu5.github.io/docs/assets/images/20230119202035.png)
 
 - Keep in mind if you happen to be on a fresh virtual machine with an up-to-date Kali instance you will find out there will be comparability issues. On top of that I had numerous issues spinning up a docker instance to emulate a `python3.9` instance because it isn't natively installed. You've been forewarned.
 - After running the exploit you will have a new directory named:
