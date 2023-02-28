@@ -130,10 +130,13 @@ cat chris
 Christopher Jones
 ```
 - Run `namemash.py`
+
 ```bash
 python namemash.py chris > chris.txt
 ```
+
 - Now we have a shorter list.
+
 ```bash
 cat chris.txt
 
@@ -151,7 +154,8 @@ jones
 ```
 
 - After attempting to automate the login procedure with both `Zap` and `Burp` and failing I had opted to manually test out the username/password and succeeded with:
-```
+
+```bash
 christopher.jones:chris123
 ```
 
@@ -161,6 +165,7 @@ christopher.jones:chris123
 
 - There are a number of ways to use these tokens with attacks. I recommend checking out `PortSwigger's Academy` on the matter. It has some pretty cool scenarios to get your hands wet with `jwt` attacks.
 - Anyways we are going to make sure we have a version of `jwt2john` installed on our host.
+
 ```bash
 wget https://raw.githubusercontent.com/Sjord/jwtcrack/master/jwt2john.py
 chmod 700 jwt2john.py
