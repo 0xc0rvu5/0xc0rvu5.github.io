@@ -12,7 +12,7 @@
 ## Bash Scripts
 
 
-[Startup Script](/Startup_Scripts.md)
+[Debian Startup Scripts](/Startup_Scripts.md)
 
 ## TCM Security
 
