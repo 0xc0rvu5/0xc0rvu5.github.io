@@ -1,6 +1,6 @@
-# Startup_Script
-#### Script can be found at :
-- [[https://github.com/0xc0rvu5/Startup_Script]]
+# Debian Startup_Scripts
+#### Scripts can be found at :
+- [[https://github.com/0xc0rvu5/Startup_Scripts]]
 
 Below will be a technical overview of what the script does. Following this, I will explain in more detail what and why the script does what it does.
 Alright! Lets begin,
