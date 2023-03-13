@@ -35,6 +35,8 @@
 
 [Photobomb](/photobomb.md)
 
+[Mentor](/mentor.md)
+
 ## Active Directory 101
 
 
@@ -145,4 +147,3 @@
 
 
 [Python and Sqlite3](/python_and_sqlite3.md)
-
