@@ -37,6 +37,8 @@
 
 [Mentor](/mentor.md)
 
+[Vessel](/vessel.md)
+
 ## Active Directory 101
 
 
